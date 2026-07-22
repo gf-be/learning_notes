@@ -1,0 +1,40 @@
+# Raw and derived datasets
+/photo/
+/photo_binary_defect/
+/photo_binary_defect_clahe/
+/photo_tile_2x2/
+/*.zip
+
+# Model training artifacts and weights
+/stage1_yolo26m_baseline/
+*.pt
+*.pth
+*.onnx
+*.engine
+/runs/
+/runs_*/
+
+# Generated presentation workspace and inspection files
+/work/
+/outputs/*.inspect.ndjson
+
+# Python and notebook cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Environments, editors, and secrets
+.venv/
+venv/
+.idea/
+.vscode/
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
