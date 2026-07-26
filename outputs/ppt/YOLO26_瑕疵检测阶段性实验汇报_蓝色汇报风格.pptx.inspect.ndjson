@@ -1,0 +1,154 @@
+{"kind":"deck","id":"pr/v1bk7m","name":"Deck"}
+{"kind":"layout","layoutId":"718d78aa-f8dc-4a39-85d8-d015c4b988b5","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"6dacfc7a-c5f7-4c3c-8281-a89b3686b187","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/g6idbb","slide":1,"title":"YOLO26 楔形片瑕疵检测：","textShapes":13}
+{"kind":"shape","id":"sh/ylc7u54z","slide":1,"bbox":[0,0,1280,142]}
+{"kind":"shape","id":"sh/9cvixcze","slide":1,"bbox":[0,132,1280,10]}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":1,"text":"YOLO26 楔形片瑕疵检测：","textPreview":"YOLO26 楔形片瑕疵检测：","textChars":15,"textLines":1,"bbox":[52,36,780,72]}
+{"kind":"textbox","id":"sh/nih4byhg","slide":1,"text":"阶段性实验对比分析","textPreview":"阶段性实验对比分析","textChars":9,"textLines":1,"bbox":[780,36,420,72]}
+{"kind":"shape","id":"sh/yxobm58z","slide":1,"bbox":[82,206,14,14]}
+{"kind":"textbox","id":"sh/5o7qpg3e","slide":1,"text":"汇报目标：对比多轮实验结果，确定当前有效方向与下一阶段工作重点","textPreview":"汇报目标：对比多轮实验结果，确定当前有效方向与下一阶段工作重点","textChars":31,"textLines":1,"bbox":[112,186,680,82]}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":1,"text":"• 围绕三分类、二分类、增强、切图、预处理等路线进行对比。","textPreview":"• 围绕三分类、二分类、增强、切图、预处理等路线进行对比。","textChars":29,"textLines":1,"bbox":[108,306,760,32]}
+{"kind":"textbox","id":"sh/rmhk3q5o","slide":1,"text":"• 重点指标为 mAP50，同时关注 mAP50-95 与后续部署误报控制。","textPreview":"• 重点指标为 mAP50，同时关注 mAP50-95 与后续部署误报控制。","textChars":38,"textLines":1,"bbox":[108,362,760,32]}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":1,"text":"• 本文只记录已经确认的训练/验证结果，未运行内容不写成结论。","textPreview":"• 本文只记录已经确认的训练/验证结果，未运行内容不写成结论。","textChars":31,"textLines":1,"bbox":[108,418,760,32]}
+{"kind":"shape","id":"sh/kjm1cfa9","slide":1,"bbox":[840,214,330,300]}
+{"kind":"textbox","id":"sh/94fu18jq","slide":1,"text":"当前最好","textPreview":"当前最好","textChars":4,"textLines":1,"bbox":[878,246,220,34]}
+{"kind":"textbox","id":"sh/2hwfyxob","slide":1,"text":"0.675","textPreview":"0.675","textChars":5,"textLines":1,"bbox":[878,306,240,78]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":1,"text":"mAP50","textPreview":"mAP50","textChars":5,"textLines":1,"bbox":[1044,348,100,30]}
+{"kind":"textbox","id":"sh/gvy90je9","slide":1,"text":"YOLO26m + 二分类 defect + imgsz1536","textPreview":"YOLO26m + 二分类 defect + imgsz1536","textChars":32,"textLines":1,"bbox":[878,424,246,58]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":1,"text":"mAP50-95 = 0.346","textPreview":"mAP50-95 = 0.346","textChars":16,"textLines":1,"bbox":[878,486,220,30]}
+{"kind":"shape","id":"sh/2p8nqxs7","slide":1,"bbox":[0,684,1280,10]}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":1,"text":"YOLO26 楔形片瑕疵检测阶段性实验汇报","textPreview":"YOLO26 楔形片瑕疵检测阶段性实验汇报","textChars":21,"textLines":1,"bbox":[54,694,600,22]}
+{"kind":"textbox","id":"sh/kzupwb2h","slide":1,"text":"第 1 页","textPreview":"第 1 页","textChars":5,"textLines":1,"bbox":[1100,694,120,22]}
+{"kind":"notes","id":"nt/g6idbb","slide":1,"text":""}
+{"kind":"slide","id":"sl/1vp6by","slide":2,"title":"一、数据集与实验基础：","textShapes":6}
+{"kind":"shape","id":"sh/29gr2p8n","slide":2,"bbox":[0,0,1280,142]}
+{"kind":"shape","id":"sh/d0z61032","slide":2,"bbox":[0,132,1280,10]}
+{"kind":"textbox","id":"sh/kf6dcbul","slide":2,"text":"一、数据集与实验基础：","textPreview":"一、数据集与实验基础：","textChars":11,"textLines":1,"bbox":[52,36,780,72]}
+{"kind":"textbox","id":"sh/v6psfil0","slide":2,"text":"类别分布","textPreview":"类别分布","textChars":4,"textLines":1,"bbox":[780,36,420,72]}
+{"kind":"shape","id":"sh/knih4byh","slide":2,"bbox":[62,450,1108,120]}
+{"kind":"textbox","id":"sh/val87ed8","slide":2,"text":"• 类别明显不均衡：splash 在 train 中有 2815 个框，scratch/chipping 分别为 364/390。","textPreview":"• 类别明显不均衡：splash 在 train 中有 2815 个框，scratch/chipping 分别为 364/390。","textChars":65,"textLines":1,"bbox":[90,474,1010,28]}
+{"kind":"textbox","id":"sh/6psfil0r","slide":2,"text":"• scratch 在多轮实验中一直是主要瓶颈，且可视化显示其框标注存在不一致。","textPreview":"• scratch 在多轮实验中一直是主要瓶颈，且可视化显示其框标注存在不一致。","textChars":40,"textLines":1,"bbox":[90,516,1010,28]}
+{"kind":"shape","id":"sh/4r65wjud","slide":2,"bbox":[0,684,1280,10]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":2,"text":"YOLO26 楔形片瑕疵检测阶段性实验汇报","textPreview":"YOLO26 楔形片瑕疵检测阶段性实验汇报","textChars":21,"textLines":1,"bbox":[54,694,600,22]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":2,"text":"第 2 页","textPreview":"第 2 页","textChars":5,"textLines":1,"bbox":[1100,694,120,22]}
+{"kind":"chart","id":"ch/lc7u54zi","slide":2,"name":"","chartType":"bar","bbox":[650,168,520,275]}
+{"kind":"table","id":"tb/vy90je9c","slide":2,"name":"","rows":4,"cols":4,"preview":"集合 | 图片 | 标签 | 目标框","bbox":[62,172,520,220]}
+{"kind":"notes","id":"nt/1vp6by","slide":2,"text":""}
+{"kind":"slide","id":"sl/9ku9mn","slide":3,"title":"二、实验过程与技术路线：","textShapes":19}
+{"kind":"shape","id":"sh/dg7adsji","slide":3,"bbox":[0,0,1280,142]}
+{"kind":"shape","id":"sh/6tovahoz","slide":3,"bbox":[0,132,1280,10]}
+{"kind":"textbox","id":"sh/vahoza1g","slide":3,"text":"二、实验过程与技术路线：","textPreview":"二、实验过程与技术路线：","textChars":12,"textLines":1,"bbox":[52,36,780,72]}
+{"kind":"textbox","id":"sh/onyd0z61","slide":3,"text":"路线梳理","textPreview":"路线梳理","textChars":4,"textLines":1,"bbox":[780,36,420,72]}
+{"kind":"shape","id":"sh/d8v6psfi","slide":3,"bbox":[72,166,84,58]}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":3,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[100,177,32,28]}
+{"kind":"textbox","id":"sh/z25kb6xk","slide":3,"text":"三尺度基线","textPreview":"三尺度基线","textChars":5,"textLines":1,"bbox":[184,168,260,28]}
+{"kind":"textbox","id":"sh/oj2t83it","slide":3,"text":"n/s/m 对比，确定 YOLO26m 为当前三分类基线","textPreview":"n/s/m 对比，确定 YOLO26m 为当前三分类基线","textChars":28,"textLines":1,"bbox":[184,200,880,26]}
+{"kind":"shape","id":"sh/d4vmtwra","slide":3,"bbox":[72,248,84,58]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":3,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[100,259,32,28]}
+{"kind":"textbox","id":"sh/sji5snel","slide":3,"text":"增强与长训练","textPreview":"增强与长训练","textChars":6,"textLines":1,"bbox":[184,250,260,28]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":3,"text":"在线增强、离线增强、长训练均未提升 mAP50","textPreview":"在线增强、离线增强、长训练均未提升 mAP50","textChars":23,"textLines":1,"bbox":[184,282,880,26]}
+{"kind":"shape","id":"sh/adsji5sn","slide":3,"bbox":[72,330,84,58]}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":3,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[100,341,32,28]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":3,"text":"切图训练","textPreview":"切图训练","textChars":4,"textLines":1,"bbox":[184,332,260,28]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":3,"text":"2x2 非重叠切图下降，说明上下文很重要","textPreview":"2x2 非重叠切图下降，说明上下文很重要","textChars":20,"textLines":1,"bbox":[184,364,880,26]}
+{"kind":"shape","id":"sh/a5gbq1or","slide":3,"bbox":[72,412,84,58]}
+{"kind":"textbox","id":"sh/hoza1gvy","slide":3,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[100,423,32,28]}
+{"kind":"textbox","id":"sh/s36hcrmh","slide":3,"text":"二分类诊断","textPreview":"二分类诊断","textChars":5,"textLines":1,"bbox":[184,414,260,28]}
+{"kind":"textbox","id":"sh/4zidonyd","slide":3,"text":"合并为 defect 后 mAP50 提升，类别边界确有影响","textPreview":"合并为 defect 后 mAP50 提升，类别边界确有影响","textChars":30,"textLines":1,"bbox":[184,446,880,26]}
+{"kind":"shape","id":"sh/xkf6dcbu","slide":3,"bbox":[72,494,84,58]}
+{"kind":"textbox","id":"sh/mtwra5gb","slide":3,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[100,505,32,28]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":3,"text":"高分辨率/CLAHE","textPreview":"高分辨率/CLAHE","textChars":10,"textLines":1,"bbox":[184,496,260,28]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":3,"text":"1536 小幅增益；CLAHE 提召回但误报风险上升","textPreview":"1536 小幅增益；CLAHE 提召回但误报风险上升","textChars":26,"textLines":1,"bbox":[184,528,880,26]}
+{"kind":"shape","id":"sh/xc3ylc7u","slide":3,"bbox":[0,684,1280,10]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":3,"text":"YOLO26 楔形片瑕疵检测阶段性实验汇报","textPreview":"YOLO26 楔形片瑕疵检测阶段性实验汇报","textChars":21,"textLines":1,"bbox":[54,694,600,22]}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":3,"text":"第 3 页","textPreview":"第 3 页","textChars":5,"textLines":1,"bbox":[1100,694,120,22]}
+{"kind":"notes","id":"nt/9ku9mn","slide":3,"text":""}
+{"kind":"slide","id":"sl/ska8c2","slide":4,"title":"三、实验结果与对比分析：","textShapes":9}
+{"kind":"shape","id":"sh/0z61032l","slide":4,"bbox":[0,0,1280,142]}
+{"kind":"shape","id":"sh/7ed8bat4","slide":4,"bbox":[0,132,1280,10]}
+{"kind":"textbox","id":"sh/itgfmlkj","slide":4,"text":"三、实验结果与对比分析：","textPreview":"三、实验结果与对比分析：","textChars":12,"textLines":1,"bbox":[52,36,780,72]}
+{"kind":"textbox","id":"sh/p8nqxs72","slide":4,"text":"核心指标","textPreview":"核心指标","textChars":4,"textLines":1,"bbox":[780,36,420,72]}
+{"kind":"shape","id":"sh/72x4nap4","slide":4,"bbox":[884,174,300,320]}
+{"kind":"textbox","id":"sh/ih4byhgn","slide":4,"text":"关键读数","textPreview":"关键读数","textChars":4,"textLines":1,"bbox":[916,206,210,30]}
+{"kind":"textbox","id":"sh/p4r65wju","slide":4,"text":"0.675","textPreview":"0.675","textChars":5,"textLines":1,"bbox":[916,262,190,68]}
+{"kind":"textbox","id":"sh/wjudg7ad","slide":4,"text":"当前最高 mAP50","textPreview":"当前最高 mAP50","textChars":10,"textLines":1,"bbox":[916,334,200,26]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":4,"text":"+0.058","textPreview":"+0.058","textChars":6,"textLines":1,"bbox":[916,390,190,44]}
+{"kind":"textbox","id":"sh/vahoza1g","slide":4,"text":"相比三分类 YOLO26m baseline","textPreview":"相比三分类 YOLO26m baseline","textChars":22,"textLines":1,"bbox":[916,438,230,44]}
+{"kind":"shape","id":"sh/ovahoza1","slide":4,"bbox":[0,684,1280,10]}
+{"kind":"textbox","id":"sh/dg7adsji","slide":4,"text":"YOLO26 楔形片瑕疵检测阶段性实验汇报","textPreview":"YOLO26 楔形片瑕疵检测阶段性实验汇报","textChars":21,"textLines":1,"bbox":[54,694,600,22]}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":4,"text":"第 4 页","textPreview":"第 4 页","textChars":5,"textLines":1,"bbox":[1100,694,120,22]}
+{"kind":"chart","id":"ch/0je9cvix","slide":4,"name":"","chartType":"bar","bbox":[70,166,760,390]}
+{"kind":"notes","id":"nt/ska8c2","slide":4,"text":""}
+{"kind":"slide","id":"sl/pmpy51","slide":5,"title":"三、实验结果与对比分析：","textShapes":5}
+{"kind":"shape","id":"sh/czed8v6p","slide":5,"bbox":[0,0,1280,142]}
+{"kind":"shape","id":"sh/neloj2t8","slide":5,"bbox":[0,132,1280,10]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":5,"text":"三、实验结果与对比分析：","textPreview":"三、实验结果与对比分析：","textChars":12,"textLines":1,"bbox":[52,36,780,72]}
+{"kind":"textbox","id":"sh/5sneloj2","slide":5,"text":"阶段结论","textPreview":"阶段结论","textChars":4,"textLines":1,"bbox":[780,36,420,72]}
+{"kind":"textbox","id":"sh/nqxs72x4","slide":5,"text":"注：以上均为已确认验证集结果；阈值测试尚未记录实际 test 输出。","textPreview":"注：以上均为已确认验证集结果；阈值测试尚未记录实际 test 输出。","textChars":34,"textLines":1,"bbox":[62,580,1000,26]}
+{"kind":"shape","id":"sh/u54zidon","slide":5,"bbox":[0,684,1280,10]}
+{"kind":"textbox","id":"sh/5wjudg7a","slide":5,"text":"YOLO26 楔形片瑕疵检测阶段性实验汇报","textPreview":"YOLO26 楔形片瑕疵检测阶段性实验汇报","textChars":21,"textLines":1,"bbox":[54,694,600,22]}
+{"kind":"textbox","id":"sh/gbq1oryt","slide":5,"text":"第 5 页","textPreview":"第 5 页","textChars":5,"textLines":1,"bbox":[1100,694,120,22]}
+{"kind":"table","id":"tb/54zidony","slide":5,"name":"","rows":8,"cols":4,"preview":"实验方向 | 代表实验 | mAP50 | 结论","bbox":[54,158,1172,392]}
+{"kind":"notes","id":"nt/pmpy51","slide":5,"text":""}
+{"kind":"slide","id":"sl/gvqv8f","slide":6,"title":"四、关键问题与原因分析：","textShapes":16}
+{"kind":"shape","id":"sh/ixczed8v","slide":6,"bbox":[0,0,1280,142]}
+{"kind":"shape","id":"sh/tovahoza","slide":6,"bbox":[0,132,1280,10]}
+{"kind":"textbox","id":"sh/032lszqt","slide":6,"text":"四、关键问题与原因分析：","textPreview":"四、关键问题与原因分析：","textChars":12,"textLines":1,"bbox":[52,36,780,72]}
+{"kind":"textbox","id":"sh/bulwval8","slide":6,"text":"无效方向","textPreview":"无效方向","textChars":4,"textLines":1,"bbox":[780,36,420,72]}
+{"kind":"shape","id":"sh/i9s36hcr","slide":6,"bbox":[70,174,340,330]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":6,"text":"增强","textPreview":"增强","textChars":2,"textLines":1,"bbox":[98,206,250,34]}
+{"kind":"textbox","id":"sh/0fepkzup","slide":6,"text":"0.598 / 0.570","textPreview":"0.598 / 0.570","textChars":13,"textLines":1,"bbox":[98,264,220,44]}
+{"kind":"textbox","id":"sh/byhgn29g","slide":6,"text":"mAP50","textPreview":"mAP50","textChars":5,"textLines":1,"bbox":[98,310,120,22]}
+{"kind":"textbox","id":"sh/idonyd0z","slide":6,"text":"在线增强和离线增强均使 mAP50 下降；说明问题不只是样本数量或轻微变换不足。","textPreview":"在线增强和离线增强均使 mAP50 下降；说明问题不只是样本数量或轻微变换不足。","textChars":40,"textLines":1,"bbox":[98,362,282,96]}
+{"kind":"shape","id":"sh/c7u54zid","slide":6,"bbox":[462,174,340,330]}
+{"kind":"textbox","id":"sh/1orytsvu","slide":6,"text":"切图","textPreview":"切图","textChars":2,"textLines":1,"bbox":[490,206,250,34]}
+{"kind":"textbox","id":"sh/u18jqh0f","slide":6,"text":"0.578","textPreview":"0.578","textChars":5,"textLines":1,"bbox":[490,264,220,44]}
+{"kind":"textbox","id":"sh/jm1cfa9w","slide":6,"text":"mAP50","textPreview":"mAP50","textChars":5,"textLines":1,"bbox":[490,310,120,22]}
+{"kind":"textbox","id":"sh/cfa9w3m9","slide":6,"text":"2x2 切图让 scratch 和 chipping 下降；圆形边缘与全局上下文被破坏。","textPreview":"2x2 切图让 scratch 和 chipping 下降；圆形边缘与全局上下文被破坏。","textChars":44,"textLines":1,"bbox":[490,362,282,96]}
+{"kind":"shape","id":"sh/1032lszq","slide":6,"bbox":[854,174,340,330]}
+{"kind":"textbox","id":"sh/u9knih4b","slide":6,"text":"CLAHE","textPreview":"CLAHE","textChars":5,"textLines":1,"bbox":[882,206,250,34]}
+{"kind":"textbox","id":"sh/judg7ads","slide":6,"text":"0.662","textPreview":"0.662","textChars":5,"textLines":1,"bbox":[882,264,220,44]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":6,"text":"mAP50","textPreview":"mAP50","textChars":5,"textLines":1,"bbox":[882,310,120,22]}
+{"kind":"textbox","id":"sh/54zidony","slide":6,"text":"Recall 提高但 Precision 下降；背景纹理被一起增强，误检风险变高。","textPreview":"Recall 提高但 Precision 下降；背景纹理被一起增强，误检风险变高。","textChars":41,"textLines":1,"bbox":[882,362,282,96]}
+{"kind":"shape","id":"sh/9s36hcrm","slide":6,"bbox":[0,684,1280,10]}
+{"kind":"textbox","id":"sh/g7adsji5","slide":6,"text":"YOLO26 楔形片瑕疵检测阶段性实验汇报","textPreview":"YOLO26 楔形片瑕疵检测阶段性实验汇报","textChars":21,"textLines":1,"bbox":[54,694,600,22]}
+{"kind":"textbox","id":"sh/rmhk3q5o","slide":6,"text":"第 6 页","textPreview":"第 6 页","textChars":5,"textLines":1,"bbox":[1100,694,120,22]}
+{"kind":"notes","id":"nt/gvqv8f","slide":6,"text":""}
+{"kind":"slide","id":"sl/21ja7s","slide":7,"title":"四、关键问题与原因分析：","textShapes":13}
+{"kind":"shape","id":"sh/8bat47y1","slide":7,"bbox":[0,0,1280,142]}
+{"kind":"shape","id":"sh/jqh0fepk","slide":7,"bbox":[0,132,1280,10]}
+{"kind":"textbox","id":"sh/q5o7qpg3","slide":7,"text":"四、关键问题与原因分析：","textPreview":"四、关键问题与原因分析：","textChars":12,"textLines":1,"bbox":[52,36,780,72]}
+{"kind":"textbox","id":"sh/18jqh0fe","slide":7,"text":"主要瓶颈","textPreview":"主要瓶颈","textChars":4,"textLines":1,"bbox":[780,36,420,72]}
+{"kind":"shape","id":"sh/8nqxs72x","slide":7,"bbox":[68,170,540,360]}
+{"kind":"textbox","id":"sh/j2t83itg","slide":7,"text":"核心发现","textPreview":"核心发现","textChars":4,"textLines":1,"bbox":[100,210,240,34]}
+{"kind":"textbox","id":"sh/qh0fepkz","slide":7,"text":"• 二分类提升说明类别边界拖累三分类。","textPreview":"• 二分类提升说明类别边界拖累三分类。","textChars":19,"textLines":1,"bbox":[100,278,430,30]}
+{"kind":"textbox","id":"sh/1cfa9w3m","slide":7,"text":"• mAP50-95 没有明显提升，定位质量仍不稳定。","textPreview":"• mAP50-95 没有明显提升，定位质量仍不稳定。","textChars":27,"textLines":1,"bbox":[100,326,430,46]}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":7,"text":"• 可视化显示 scratch 存在多框、重叠、尺度不统一问题。","textPreview":"• 可视化显示 scratch 存在多框、重叠、尺度不统一问题。","textChars":32,"textLines":1,"bbox":[100,390,430,54]}
+{"kind":"textbox","id":"sh/2t83itgf","slide":7,"text":"• 最终部署还需要量化正常图误报。","textPreview":"• 最终部署还需要量化正常图误报。","textChars":17,"textLines":1,"bbox":[100,466,430,30]}
+{"kind":"textbox","id":"sh/re1w7mp0","slide":7,"text":"阶段结论","textPreview":"阶段结论","textChars":4,"textLines":1,"bbox":[680,194,250,34]}
+{"kind":"textbox","id":"sh/kzupwb2h","slide":7,"text":"继续调普通增强、继续切图或拉长训练，预计收益有限。下一阶段应围绕“阈值-误报权衡”和“scratch 标注清洗”展开。","textPreview":"继续调普通增强、继续切图或拉长训练，预计收益有限。下一阶段应围绕“阈值-误报权衡”和“scratch 标注清洗”展开。","textChars":59,"textLines":1,"bbox":[680,252,460,116]}
+{"kind":"shape","id":"sh/9knih4by","slide":7,"bbox":[680,410,430,86]}
+{"kind":"textbox","id":"sh/25kb6xkf","slide":7,"text":"推荐主线：binary defect + imgsz1536","textPreview":"推荐主线：binary defect + imgsz1536","textChars":30,"textLines":1,"bbox":[708,436,380,30]}
+{"kind":"textbox","id":"sh/rqd4vmtw","slide":7,"text":"当前最好 mAP50 0.675","textPreview":"当前最好 mAP50 0.675","textChars":16,"textLines":1,"bbox":[708,468,360,24]}
+{"kind":"shape","id":"sh/kb6xkf6d","slide":7,"bbox":[0,684,1280,10]}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":7,"text":"YOLO26 楔形片瑕疵检测阶段性实验汇报","textPreview":"YOLO26 楔形片瑕疵检测阶段性实验汇报","textChars":21,"textLines":1,"bbox":[54,694,600,22]}
+{"kind":"textbox","id":"sh/2hwfyxob","slide":7,"text":"第 7 页","textPreview":"第 7 页","textChars":5,"textLines":1,"bbox":[1100,694,120,22]}
+{"kind":"notes","id":"nt/21ja7s","slide":7,"text":""}
+{"kind":"slide","id":"sl/hhte0f","slide":8,"title":"五、下一步实验计划：","textShapes":10}
+{"kind":"shape","id":"sh/dsji5sne","slide":8,"bbox":[0,0,1280,142]}
+{"kind":"shape","id":"sh/61032lsz","slide":8,"bbox":[0,132,1280,10]}
+{"kind":"textbox","id":"sh/vmtwra5g","slide":8,"text":"五、下一步实验计划：","textPreview":"五、下一步实验计划：","textChars":10,"textLines":1,"bbox":[52,36,780,72]}
+{"kind":"textbox","id":"sh/oj2t83it","slide":8,"text":"阈值测试与标注清洗","textPreview":"阈值测试与标注清洗","textChars":9,"textLines":1,"bbox":[780,36,420,72]}
+{"kind":"shape","id":"sh/6dcbulwv","slide":8,"bbox":[692,164,480,272]}
+{"kind":"textbox","id":"sh/vy90je9c","slide":8,"text":"必须新增的部署指标","textPreview":"必须新增的部署指标","textChars":9,"textLines":1,"bbox":[724,198,360,30]}
+{"kind":"textbox","id":"sh/onyd0z61","slide":8,"text":"• 正常图误报张数","textPreview":"• 正常图误报张数","textChars":9,"textLines":1,"bbox":[724,260,350,28]}
+{"kind":"textbox","id":"sh/d8v6psfi","slide":8,"text":"• 正常图误报框数","textPreview":"• 正常图误报框数","textChars":9,"textLines":1,"bbox":[724,304,350,28]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":8,"text":"• 正常图误报率","textPreview":"• 正常图误报率","textChars":8,"textLines":1,"bbox":[724,348,350,28]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":8,"text":"最终阈值不一定选 mAP50 最高点，而是选择漏检和误报都可接受的工作点。","textPreview":"最终阈值不一定选 mAP50 最高点，而是选择漏检和误报都可接受的工作点。","textChars":37,"textLines":1,"bbox":[724,398,380,46]}
+{"kind":"textbox","id":"sh/bq1oryts","slide":8,"text":"并行建议：抽取 50 张 train scratch + 20 张 val scratch，统一 scratch 标注规则后做小闭环验证。","textPreview":"并行建议：抽取 50 张 train scratch + 20 张 val scratch，统一 scratch 标注规则后做小闭环验证。","textChars":69,"textLines":1,"bbox":[82,496,1030,56]}
+{"kind":"shape","id":"sh/m58z25kb","slide":8,"bbox":[0,684,1280,10]}
+{"kind":"textbox","id":"sh/t83itgfm","slide":8,"text":"YOLO26 楔形片瑕疵检测阶段性实验汇报","textPreview":"YOLO26 楔形片瑕疵检测阶段性实验汇报","textChars":21,"textLines":1,"bbox":[54,694,600,22]}
+{"kind":"textbox","id":"sh/4nap4r65","slide":8,"text":"第 8 页","textPreview":"第 8 页","textChars":5,"textLines":1,"bbox":[1100,694,120,22]}
+{"kind":"table","id":"tb/cbulwval","slide":8,"name":"","rows":6,"cols":4,"preview":"实验 | conf | iou | 目的","bbox":[64,164,560,272]}
+{"kind":"notes","id":"nt/hhte0f","slide":8,"text":""}
