@@ -21,6 +21,7 @@
 | 项目文件说明 | [docs/PROJECT_STRUCTURE.md](docs/PROJECT_STRUCTURE.md) |
 | 每日记录使用说明 | [docs/daily/README.md](docs/daily/README.md) |
 | 每日记录模板 | [docs/templates/DAILY_LOG_TEMPLATE.md](docs/templates/DAILY_LOG_TEMPLATE.md) |
+| Scripts 使用指南 | [scripts/README.md](scripts/README.md) |
 
 ## 目录说明
 

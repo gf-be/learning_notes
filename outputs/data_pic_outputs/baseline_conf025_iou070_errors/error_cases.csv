@@ -1,0 +1,836 @@
+﻿kind,image,class,reason,confidence,best_iou,exported_image
+FN,1 (243).bmp,spot,类别混淆（同位置预测成其他类别）,0.268826,0.779,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/1 (243)__fn__spot__02.bmp
+FN,1 (243).bmp,scratch,未检测到（建议检查尺度、反光、对比度或漏标）,0.253231,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/scratch/images/1 (243)__fn__scratch__04.bmp
+FN,1 (243).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.253231,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (243)__fn__splash__05.bmp
+FN,1 (243).bmp,splash,定位偏差或置信度不足（存在部分重叠预测）,0.369809,0.2984,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (243)__fn__splash__06.bmp
+FN,1 (243).bmp,splash,定位偏差或置信度不足（存在部分重叠预测）,0.369809,0.4012,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (243)__fn__splash__07.bmp
+FN,1 (243).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.253231,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (243)__fn__splash__09.bmp
+FP,1 (243).bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.5685,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/1 (243)__fp__spot__02.bmp
+FP,1 (243).bmp,splash,定位偏差或重复预测,0.3698,0.4012,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (243)__fp__splash__04.bmp
+FP,1 (243).bmp,chipping,定位偏差或重复预测,0.3006,0.7464,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (243)__fp__chipping__06.bmp
+FP,1 (243).bmp,chipping,类别混淆（预测类别错误）,0.2688,0.779,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (243)__fp__chipping__07.bmp
+FP,1 (243).bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2532,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (243)__fp__splash__08.bmp
+FN,1 (246).bmp,scratch,未检测到（建议检查尺度、反光、对比度或漏标）,,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/scratch/images/1 (246)__fn__scratch__00.bmp
+FN,1 (246).bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (246)__fn__chipping__01.bmp
+FN,1 (249).bmp,spot,类别混淆（同位置预测成其他类别）,0.346104,0.5244,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/1 (249)__fn__spot__02.bmp
+FN,1 (249).bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.289781,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/1 (249)__fn__spot__07.bmp
+FN,1 (249).bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.289781,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/1 (249)__fn__spot__08.bmp
+FN,1 (249).bmp,scratch,未检测到（建议检查尺度、反光、对比度或漏标）,0.289781,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/scratch/images/1 (249)__fn__scratch__09.bmp
+FP,1 (249).bmp,chipping,定位偏差或重复预测,0.3736,0.903,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (249)__fp__chipping__06.bmp
+FP,1 (249).bmp,splash,类别混淆（预测类别错误）,0.3461,0.5244,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (249)__fp__splash__07.bmp
+FP,1 (249).bmp,scratch,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3142,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/scratch/images/1 (249)__fp__scratch__08.bmp
+FP,1 (249).bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2898,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (249)__fp__splash__09.bmp
+FN,1 (253).bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.466227,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (253)__fn__chipping__02.bmp
+FP,1 (253).bmp,chipping,定位偏差或重复预测,0.4662,0.8237,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (253)__fp__chipping__02.bmp
+FN,1 (254).bmp,scratch,未检测到（建议检查尺度、反光、对比度或漏标）,0.302819,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/scratch/images/1 (254)__fn__scratch__00.bmp
+FP,1 (254).bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.8145,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (254)__fp__chipping__00.bmp
+FN,1 (255).bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.729048,0.0006,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (255)__fn__chipping__03.bmp
+FN,1 (255).bmp,scratch,定位偏差或置信度不足（存在部分重叠预测）,0.30726,0.4404,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/scratch/images/1 (255)__fn__scratch__04.bmp
+FP,1 (255).bmp,scratch,定位偏差或重复预测,0.3073,0.4404,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/scratch/images/1 (255)__fp__scratch__03.bmp
+FN,1 (256).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.313015,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (256)__fn__splash__02.bmp
+FP,1 (256).bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.8679,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (256)__fp__chipping__00.bmp
+FP,1 (256).bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.6876,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/1 (256)__fp__spot__03.bmp
+FP,1 (256).bmp,scratch,定位偏差或重复预测,0.313,0.2048,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/scratch/images/1 (256)__fp__scratch__07.bmp
+FN,1 (264).bmp,scratch,未检测到（建议检查尺度、反光、对比度或漏标）,0.29754,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/scratch/images/1 (264)__fn__scratch__06.bmp
+FN,1 (264).bmp,scratch,未检测到（建议检查尺度、反光、对比度或漏标）,0.29754,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/scratch/images/1 (264)__fn__scratch__07.bmp
+FN,1 (264).bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.29754,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (264)__fn__chipping__08.bmp
+FP,1 (264).bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.5018,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (264)__fp__chipping__03.bmp
+FP,1 (264).bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.479,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (264)__fp__splash__04.bmp
+FP,1 (264).bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2975,0.0071,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (264)__fp__splash__08.bmp
+FN,1 (265).bmp,scratch,未检测到（建议检查尺度、反光、对比度或漏标）,0.325185,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/scratch/images/1 (265)__fn__scratch__07.bmp
+FN,1 (265).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.325185,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (265)__fn__splash__08.bmp
+FP,1 (265).bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.6434,0.0588,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (265)__fp__chipping__02.bmp
+FP,1 (265).bmp,chipping,定位偏差或重复预测,0.4244,0.8104,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (265)__fp__chipping__06.bmp
+FN,1 (269).bmp,scratch,未检测到（建议检查尺度、反光、对比度或漏标）,0.263872,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/scratch/images/1 (269)__fn__scratch__00.bmp
+FN,1 (269).bmp,scratch,未检测到（建议检查尺度、反光、对比度或漏标）,0.263872,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/scratch/images/1 (269)__fn__scratch__01.bmp
+FN,1 (269).bmp,scratch,未检测到（建议检查尺度、反光、对比度或漏标）,0.403954,0.001,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/scratch/images/1 (269)__fn__scratch__02.bmp
+FN,1 (269).bmp,splash,类别混淆（同位置预测成其他类别）,0.354133,0.7449,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (269)__fn__splash__04.bmp
+FN,1 (269).bmp,scratch,未检测到（建议检查尺度、反光、对比度或漏标）,0.263872,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/scratch/images/1 (269)__fn__scratch__06.bmp
+FP,1 (269).bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.5763,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/1 (269)__fp__spot__02.bmp
+FP,1 (269).bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4551,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (269)__fp__chipping__03.bmp
+FP,1 (269).bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.404,0.001,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (269)__fp__splash__04.bmp
+FP,1 (269).bmp,spot,类别混淆（预测类别错误）,0.3541,0.7449,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/1 (269)__fp__spot__05.bmp
+FP,1 (269).bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2639,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (269)__fp__splash__06.bmp
+FP,1 (274).bmp,splash,定位偏差或重复预测,0.3699,0.458,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (274)__fp__splash__03.bmp
+FN,1 (283).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.406358,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (283)__fn__splash__02.bmp
+FN,1 (284).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.285963,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (284)__fn__splash__04.bmp
+FN,1 (284).bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.285963,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (284)__fn__chipping__06.bmp
+FP,1 (284).bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3704,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (284)__fp__chipping__04.bmp
+FP,1 (284).bmp,splash,定位偏差或重复预测,0.3466,0.797,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (284)__fp__splash__05.bmp
+FP,1 (293).bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3223,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (293)__fp__splash__01.bmp
+FN,1 (303).bmp,spot,类别混淆（同位置预测成其他类别）,0.570495,0.8203,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/1 (303)__fn__spot__01.bmp
+FP,1 (303).bmp,chipping,定位偏差或重复预测,0.6064,0.8353,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (303)__fp__chipping__04.bmp
+FP,1 (303).bmp,splash,类别混淆（预测类别错误）,0.5705,0.8203,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (303)__fp__splash__05.bmp
+FP,1 (303).bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2975,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (303)__fp__splash__06.bmp
+FP,1 (303).bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.267,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (303)__fp__splash__07.bmp
+FP,1 (310).bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.6645,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (310)__fp__chipping__00.bmp
+FP,1 (310).bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.5618,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (310)__fp__splash__03.bmp
+FP,1 (310).bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2579,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (310)__fp__splash__04.bmp
+FP,1 (311).bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3304,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (311)__fp__splash__01.bmp
+FP,1 (311).bmp,splash,定位偏差或重复预测,0.3219,0.8144,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (311)__fp__splash__02.bmp
+FN,1 (313).bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.289836,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (313)__fn__chipping__03.bmp
+FN,1 (313).bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.289836,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (313)__fn__chipping__04.bmp
+FN,1 (313).bmp,chipping,定位偏差或置信度不足（存在部分重叠预测）,0.675865,0.2202,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (313)__fn__chipping__05.bmp
+FN,1 (313).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.289836,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (313)__fn__splash__20.bmp
+FN,1 (313).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.289836,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (313)__fn__splash__22.bmp
+FN,1 (313).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.289836,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (313)__fn__splash__24.bmp
+FN,1 (313).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.289836,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (313)__fn__splash__25.bmp
+FP,1 (313).bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.8083,0.0664,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (313)__fp__chipping__01.bmp
+FP,1 (313).bmp,chipping,定位偏差或重复预测,0.3979,0.5535,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (313)__fp__chipping__18.bmp
+FP,1 (315).bmp,splash,定位偏差或重复预测,0.3243,0.5633,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (315)__fp__splash__03.bmp
+FP,1 (327).bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.5534,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (327)__fp__splash__03.bmp
+FP,1 (332).bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.6581,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (332)__fp__chipping__01.bmp
+FP,1 (332).bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.5765,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (332)__fp__splash__02.bmp
+FP,1 (332).bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.456,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (332)__fp__splash__03.bmp
+FN,1 (333).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.258351,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (333)__fn__splash__04.bmp
+FP,1 (333).bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4895,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/1 (333)__fp__spot__03.bmp
+FP,1 (333).bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3742,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (333)__fp__splash__05.bmp
+FP,1 (333).bmp,splash,定位偏差或重复预测,0.2584,0.8351,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (333)__fp__splash__06.bmp
+FN,1 (337).bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.28666,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (337)__fn__chipping__00.bmp
+FN,1 (337).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.28666,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (337)__fn__splash__01.bmp
+FN,1 (337).bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.28666,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (337)__fn__chipping__02.bmp
+FN,1 (337).bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.28666,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (337)__fn__chipping__03.bmp
+FN,1 (337).bmp,spot,类别混淆（同位置预测成其他类别）,0.49611,0.9259,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/1 (337)__fn__spot__05.bmp
+FP,1 (337).bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.5365,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (337)__fp__splash__00.bmp
+FP,1 (337).bmp,chipping,类别混淆（预测类别错误）,0.4961,0.9259,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (337)__fp__chipping__01.bmp
+FP,1 (337).bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2867,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (337)__fp__chipping__03.bmp
+FN,1 (341).bmp,chipping,定位偏差或置信度不足（存在部分重叠预测）,0.508183,0.2103,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (341)__fn__chipping__01.bmp
+FN,1 (341).bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.508183,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (341)__fn__chipping__02.bmp
+FP,1 (341).bmp,chipping,定位偏差或重复预测,0.5082,0.2103,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (341)__fp__chipping__01.bmp
+FP,1 (342).bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3972,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (342)__fp__splash__00.bmp
+FP,1 (354).bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4737,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (354)__fp__chipping__01.bmp
+FP,1 (354).bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4556,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (354)__fp__chipping__02.bmp
+FN,1 (357).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.437039,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (357)__fn__splash__03.bmp
+FN,1 (357).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.437039,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (357)__fn__splash__06.bmp
+FP,1 (357).bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4449,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/1 (357)__fp__spot__04.bmp
+FN,1 (359).bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.826727,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (359)__fn__chipping__01.bmp
+FN,1 (359).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.826727,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (359)__fn__splash__02.bmp
+FP,1 (364).bmp,splash,定位偏差或重复预测,0.4095,0.7033,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (364)__fp__splash__02.bmp
+FP,1 (364).bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2565,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (364)__fp__splash__06.bmp
+FP,1 (364).bmp,splash,定位偏差或重复预测,0.2537,0.7015,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (364)__fp__splash__07.bmp
+FP,1 (372).bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.8053,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (372)__fp__chipping__00.bmp
+FP,1 (372).bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.6334,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (372)__fp__chipping__03.bmp
+FP,1 (372).bmp,splash,定位偏差或重复预测,0.3084,0.8664,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (372)__fp__splash__05.bmp
+FP,1 (372).bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2666,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (372)__fp__chipping__06.bmp
+FN,1 (373).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.329044,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (373)__fn__splash__02.bmp
+FN,1 (373).bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.329044,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (373)__fn__chipping__03.bmp
+FN,1 (373).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.329044,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (373)__fn__splash__04.bmp
+FN,1 (373).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.329044,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (373)__fn__splash__05.bmp
+FN,1 (373).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.329044,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (373)__fn__splash__06.bmp
+FN,1 (373).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.329044,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (373)__fn__splash__07.bmp
+FN,1 (373).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.329044,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (373)__fn__splash__08.bmp
+FN,1 (373).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.329044,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (373)__fn__splash__09.bmp
+FN,1 (377).bmp,splash,定位偏差或置信度不足（存在部分重叠预测）,0.709709,0.4702,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (377)__fn__splash__00.bmp
+FP,1 (377).bmp,splash,定位偏差或重复预测,0.7097,0.4702,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (377)__fp__splash__00.bmp
+FN,1 (379).bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.316704,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (379)__fn__chipping__00.bmp
+FP,1 (379).bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3167,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (379)__fp__chipping__00.bmp
+FN,1 (390).bmp,splash,类别混淆（同位置预测成其他类别）,0.836613,0.8864,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (390)__fn__splash__00.bmp
+FN,1 (390).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.263684,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (390)__fn__splash__05.bmp
+FP,1 (390).bmp,spot,类别混淆（预测类别错误）,0.8366,0.8864,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/1 (390)__fp__spot__00.bmp
+FP,1 (390).bmp,spot,类别混淆（预测类别错误）,0.2637,0.8081,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/1 (390)__fp__spot__05.bmp
+FN,1 (413).bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.276064,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (413)__fn__chipping__00.bmp
+FN,1 (413).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.276064,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (413)__fn__splash__03.bmp
+FN,1 (418).bmp,spot,类别混淆（同位置预测成其他类别）,0.424693,0.8027,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/1 (418)__fn__spot__03.bmp
+FN,1 (418).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.254815,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (418)__fn__splash__06.bmp
+FN,1 (418).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.254815,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (418)__fn__splash__11.bmp
+FN,1 (418).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.254815,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (418)__fn__splash__12.bmp
+FN,1 (418).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.254815,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (418)__fn__splash__13.bmp
+FN,1 (418).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.254815,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (418)__fn__splash__14.bmp
+FN,1 (418).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.254815,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (418)__fn__splash__15.bmp
+FN,1 (418).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.254815,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (418)__fn__splash__16.bmp
+FN,1 (418).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.254815,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (418)__fn__splash__17.bmp
+FP,1 (418).bmp,splash,类别混淆（预测类别错误）,0.4247,0.8027,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (418)__fp__splash__05.bmp
+FN,1 (421).bmp,chipping,定位偏差或置信度不足（存在部分重叠预测）,0.722028,0.2061,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (421)__fn__chipping__00.bmp
+FN,1 (421).bmp,spot,类别混淆（同位置预测成其他类别）,0.813701,0.6357,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/1 (421)__fn__spot__01.bmp
+FN,1 (421).bmp,spot,类别混淆（同位置预测成其他类别）,0.510635,0.5349,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/1 (421)__fn__spot__07.bmp
+FN,1 (421).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.268998,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (421)__fn__splash__13.bmp
+FN,1 (421).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.268998,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (421)__fn__splash__15.bmp
+FN,1 (421).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.268998,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (421)__fn__splash__17.bmp
+FN,1 (421).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.268998,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (421)__fn__splash__19.bmp
+FN,1 (421).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.268998,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (421)__fn__splash__20.bmp
+FN,1 (421).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.268998,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (421)__fn__splash__21.bmp
+FP,1 (421).bmp,splash,类别混淆（预测类别错误）,0.8137,0.6357,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (421)__fp__splash__00.bmp
+FP,1 (421).bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.7564,0.0392,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (421)__fp__chipping__02.bmp
+FP,1 (421).bmp,splash,类别混淆（预测类别错误）,0.7337,0.7052,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (421)__fp__splash__03.bmp
+FP,1 (421).bmp,chipping,定位偏差或重复预测,0.722,0.2061,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (421)__fp__chipping__04.bmp
+FP,1 (421).bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.5895,0.0449,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (421)__fp__chipping__06.bmp
+FP,1 (421).bmp,splash,类别混淆（预测类别错误）,0.545,0.822,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (421)__fp__splash__09.bmp
+FP,1 (421).bmp,splash,类别混淆（预测类别错误）,0.5309,0.5049,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (421)__fp__splash__10.bmp
+FP,1 (421).bmp,splash,类别混淆（预测类别错误）,0.5106,0.5349,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (421)__fp__splash__12.bmp
+FP,1 (421).bmp,splash,类别混淆（预测类别错误）,0.4745,0.6554,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (421)__fp__splash__14.bmp
+FP,1 (421).bmp,splash,定位偏差或重复预测,0.3898,0.7926,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (421)__fp__splash__20.bmp
+FP,1 (421).bmp,splash,类别混淆（预测类别错误）,0.3778,0.882,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (421)__fp__splash__21.bmp
+FP,1 (421).bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3325,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (421)__fp__chipping__24.bmp
+FP,1 (421).bmp,splash,定位偏差或重复预测,0.2943,0.7205,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (421)__fp__splash__25.bmp
+FP,1 (421).bmp,splash,类别混淆（预测类别错误）,0.269,0.6897,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (421)__fp__splash__26.bmp
+FN,1 (425).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.52254,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (425)__fn__splash__02.bmp
+FN,1 (425).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.52254,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (425)__fn__splash__03.bmp
+FN,1 (425).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.52254,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (425)__fn__splash__04.bmp
+FN,1 (425).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.52254,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (425)__fn__splash__05.bmp
+FN,1 (425).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.52254,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (425)__fn__splash__06.bmp
+FN,1 (425).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.52254,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (425)__fn__splash__07.bmp
+FN,1 (425).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.52254,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (425)__fn__splash__08.bmp
+FN,1 (425).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.52254,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (425)__fn__splash__09.bmp
+FN,1 (425).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.52254,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (425)__fn__splash__10.bmp
+FP,1 (425).bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.799,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (425)__fp__chipping__00.bmp
+FP,1 (425).bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.6678,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/1 (425)__fp__spot__01.bmp
+FN,1 (426).bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.259046,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/1 (426)__fn__spot__03.bmp
+FN,1 (426).bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.259046,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/1 (426)__fn__spot__04.bmp
+FN,1 (426).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.259046,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (426)__fn__splash__07.bmp
+FN,1 (426).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.259046,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (426)__fn__splash__08.bmp
+FN,1 (426).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.259046,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (426)__fn__splash__09.bmp
+FP,1 (426).bmp,splash,定位偏差或重复预测,0.259,0.7641,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (426)__fp__splash__06.bmp
+FN,1 (428).bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.301277,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (428)__fn__chipping__02.bmp
+FP,1 (428).bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3187,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (428)__fp__chipping__02.bmp
+FP,1 (428).bmp,splash,类别混淆（预测类别错误）,0.3013,0.9411,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (428)__fp__splash__03.bmp
+FN,1 (431).bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.405993,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/1 (431)__fn__spot__00.bmp
+FN,1 (431).bmp,spot,类别混淆（同位置预测成其他类别）,0.775037,0.7369,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/1 (431)__fn__spot__01.bmp
+FN,1 (431).bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.405993,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/1 (431)__fn__spot__05.bmp
+FN,1 (431).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.405993,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (431)__fn__splash__09.bmp
+FP,1 (431).bmp,splash,类别混淆（预测类别错误）,0.775,0.7369,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (431)__fp__splash__00.bmp
+FP,1 (431).bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4127,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/1 (431)__fp__spot__06.bmp
+FN,1 (434).bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.316174,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (434)__fn__chipping__05.bmp
+FP,1 (434).bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4664,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/1 (434)__fp__spot__03.bmp
+FP,1 (434).bmp,splash,类别混淆（预测类别错误）,0.4189,0.7787,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (434)__fp__splash__04.bmp
+FP,1 (434).bmp,splash,类别混淆（预测类别错误）,0.3453,0.7708,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (434)__fp__splash__07.bmp
+FN,1 (436).bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.251894,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (436)__fn__chipping__01.bmp
+FN,1 (436).bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.251894,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (436)__fn__chipping__03.bmp
+FN,1 (436).bmp,chipping,定位偏差或置信度不足（存在部分重叠预测）,0.756081,0.3058,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (436)__fn__chipping__06.bmp
+FN,1 (436).bmp,chipping,定位偏差或置信度不足（存在部分重叠预测）,0.756081,0.1592,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (436)__fn__chipping__07.bmp
+FN,1 (436).bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.251894,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (436)__fn__chipping__09.bmp
+FN,1 (436).bmp,chipping,定位偏差或置信度不足（存在部分重叠预测）,0.384259,0.2005,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (436)__fn__chipping__10.bmp
+FN,1 (436).bmp,splash,定位偏差或置信度不足（存在部分重叠预测）,0.312047,0.4866,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (436)__fn__splash__14.bmp
+FN,1 (436).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.251894,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (436)__fn__splash__15.bmp
+FN,1 (436).bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.251894,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (436)__fn__chipping__17.bmp
+FN,1 (436).bmp,chipping,定位偏差或置信度不足（存在部分重叠预测）,0.477022,0.2159,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (436)__fn__chipping__20.bmp
+FN,1 (436).bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.251894,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (436)__fn__chipping__21.bmp
+FP,1 (436).bmp,chipping,定位偏差或重复预测,0.7561,0.3058,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (436)__fp__chipping__05.bmp
+FP,1 (436).bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.6342,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (436)__fp__chipping__08.bmp
+FP,1 (436).bmp,chipping,定位偏差或重复预测,0.477,0.2159,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (436)__fp__chipping__11.bmp
+FP,1 (436).bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.411,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (436)__fp__chipping__12.bmp
+FP,1 (436).bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3955,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (436)__fp__chipping__13.bmp
+FP,1 (436).bmp,chipping,定位偏差或重复预测,0.3843,0.2005,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (436)__fp__chipping__14.bmp
+FP,1 (436).bmp,chipping,定位偏差或重复预测,0.3471,0.1122,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (436)__fp__chipping__15.bmp
+FP,1 (436).bmp,chipping,定位偏差或重复预测,0.3397,0.8132,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (436)__fp__chipping__17.bmp
+FP,1 (436).bmp,chipping,定位偏差或重复预测,0.3298,0.7147,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (436)__fp__chipping__18.bmp
+FP,1 (436).bmp,splash,定位偏差或重复预测,0.312,0.4866,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (436)__fp__splash__19.bmp
+FP,1 (436).bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2562,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (436)__fp__chipping__21.bmp
+FP,1 (436).bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2519,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (436)__fp__chipping__22.bmp
+FP,1 (452).bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.8884,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (452)__fp__chipping__00.bmp
+FP,1 (452).bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.6824,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (452)__fp__chipping__02.bmp
+FP,1 (452).bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.5782,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (452)__fp__chipping__03.bmp
+FP,1 (452).bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.5458,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (452)__fp__splash__04.bmp
+FN,1 (453).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.280698,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (453)__fn__splash__10.bmp
+FN,1 (453).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.280698,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (453)__fn__splash__11.bmp
+FP,1 (453).bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3564,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (453)__fp__splash__09.bmp
+FP,1 (453).bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3488,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (453)__fp__splash__10.bmp
+FP,1 (453).bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2912,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (453)__fp__splash__12.bmp
+FP,1 (453).bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2807,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (453)__fp__splash__14.bmp
+FN,1 (460).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.29906,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (460)__fn__splash__03.bmp
+FN,1 (460).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.29906,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (460)__fn__splash__06.bmp
+FN,1 (460).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.29906,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (460)__fn__splash__07.bmp
+FN,1 (460).bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.29906,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/1 (460)__fn__splash__08.bmp
+FP,1 (460).bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3702,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (460)__fp__splash__04.bmp
+FN,1 (478).bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.290435,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (478)__fn__chipping__04.bmp
+FN,1 (478).bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.290435,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (478)__fn__chipping__05.bmp
+FN,1 (478).bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.290435,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/1 (478)__fn__spot__07.bmp
+FN,1 (478).bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.290435,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/1 (478)__fn__spot__08.bmp
+FP,1 (478).bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.6081,0.0634,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (478)__fp__chipping__04.bmp
+FP,1 (478).bmp,chipping,定位偏差或重复预测,0.4808,0.4303,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (478)__fp__chipping__05.bmp
+FP,1 (478).bmp,chipping,定位偏差或重复预测,0.2904,0.1898,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (478)__fp__chipping__07.bmp
+FN,1 (482).bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.265435,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/1 (482)__fn__chipping__03.bmp
+FP,1 (482).bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.5302,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (482)__fp__splash__04.bmp
+FP,1 (482).bmp,chipping,定位偏差或重复预测,0.5264,0.3145,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/1 (482)__fp__chipping__05.bmp
+FP,1 (482).bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3437,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/1 (482)__fp__splash__06.bmp
+FN,101.bmp,chipping,定位偏差或置信度不足（存在部分重叠预测）,0.401276,0.439,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/101__fn__chipping__02.bmp
+FN,101.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.259711,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/101__fn__chipping__03.bmp
+FP,101.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.6127,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/101__fp__spot__00.bmp
+FP,101.bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.5648,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/101__fp__chipping__02.bmp
+FP,101.bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.5208,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/101__fp__chipping__03.bmp
+FP,101.bmp,spot,定位偏差或重复预测,0.424,0.4288,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/101__fp__spot__04.bmp
+FP,101.bmp,chipping,定位偏差或重复预测,0.4013,0.439,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/101__fp__chipping__05.bmp
+FP,101.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3558,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/101__fp__spot__06.bmp
+FN,105.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.321571,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/105__fn__chipping__00.bmp
+FN,105.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.321571,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/105__fn__chipping__01.bmp
+FP,105.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4926,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/105__fp__spot__00.bmp
+FP,105.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3216,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/105__fp__spot__01.bmp
+FP,11.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2926,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/11__fp__spot__00.bmp
+FN,118.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.325213,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/118__fn__chipping__02.bmp
+FN,130.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.386049,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/130__fn__splash__02.bmp
+FN,130.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.386049,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/130__fn__splash__03.bmp
+FN,130.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.386049,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/130__fn__splash__05.bmp
+FN,130.bmp,splash,类别混淆（同位置预测成其他类别）,0.657578,0.8127,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/130__fn__splash__06.bmp
+FN,130.bmp,splash,类别混淆（同位置预测成其他类别）,0.710144,0.8548,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/130__fn__splash__07.bmp
+FP,130.bmp,spot,类别混淆（预测类别错误）,0.7101,0.8548,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/130__fp__spot__01.bmp
+FP,130.bmp,spot,类别混淆（预测类别错误）,0.6576,0.8127,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/130__fp__spot__02.bmp
+FP,130.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4107,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/130__fp__spot__05.bmp
+FP,130.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.386,0.0589,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/130__fp__spot__06.bmp
+FN,131.bmp,chipping,定位偏差或置信度不足（存在部分重叠预测）,0.435028,0.3944,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/131__fn__chipping__00.bmp
+FP,131.bmp,chipping,定位偏差或重复预测,0.7951,0.1326,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/131__fp__chipping__03.bmp
+FP,131.bmp,chipping,定位偏差或重复预测,0.4915,0.1236,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/131__fp__chipping__08.bmp
+FP,131.bmp,chipping,定位偏差或重复预测,0.435,0.3944,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/131__fp__chipping__09.bmp
+FP,131.bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.257,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/131__fp__chipping__11.bmp
+FP,131.bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2539,0.0813,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/131__fp__chipping__12.bmp
+FN,136.bmp,chipping,类别混淆（同位置预测成其他类别）,0.892732,0.9431,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/136__fn__chipping__00.bmp
+FN,136.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.293496,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/136__fn__splash__06.bmp
+FN,136.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.293496,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/136__fn__splash__07.bmp
+FN,136.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.293496,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/136__fn__splash__08.bmp
+FN,136.bmp,splash,定位偏差或置信度不足（存在部分重叠预测）,0.579636,0.2626,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/136__fn__splash__09.bmp
+FN,136.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.293496,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/136__fn__chipping__10.bmp
+FP,136.bmp,spot,类别混淆（预测类别错误）,0.8927,0.9431,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/136__fp__spot__00.bmp
+FP,136.bmp,splash,定位偏差或重复预测,0.5796,0.2626,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/136__fp__splash__01.bmp
+FP,136.bmp,splash,定位偏差或重复预测,0.435,0.806,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/136__fp__splash__04.bmp
+FP,136.bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3961,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/136__fp__chipping__06.bmp
+FN,140.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/140__fn__chipping__00.bmp
+FN,143.bmp,splash,定位偏差或置信度不足（存在部分重叠预测）,0.746209,0.3977,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/143__fn__splash__00.bmp
+FN,143.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.314489,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/143__fn__splash__02.bmp
+FN,143.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.314489,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/143__fn__spot__03.bmp
+FN,143.bmp,spot,定位偏差或置信度不足（存在部分重叠预测）,0.511176,0.2537,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/143__fn__spot__05.bmp
+FN,143.bmp,spot,定位偏差或置信度不足（存在部分重叠预测）,0.615377,0.2909,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/143__fn__spot__06.bmp
+FN,143.bmp,spot,定位偏差或置信度不足（存在部分重叠预测）,0.314489,0.1875,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/143__fn__spot__07.bmp
+FN,143.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.314489,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/143__fn__spot__08.bmp
+FN,143.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.314489,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/143__fn__spot__09.bmp
+FN,143.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.314489,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/143__fn__spot__10.bmp
+FP,143.bmp,splash,定位偏差或重复预测,0.7462,0.3977,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/143__fp__splash__00.bmp
+FP,143.bmp,splash,定位偏差或重复预测,0.6154,0.2909,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/143__fp__splash__02.bmp
+FP,143.bmp,splash,定位偏差或重复预测,0.5112,0.2537,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/143__fp__splash__04.bmp
+FP,143.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4816,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/143__fp__splash__05.bmp
+FP,143.bmp,splash,定位偏差或重复预测,0.3145,0.1875,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/143__fp__splash__06.bmp
+FP,144.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2938,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/144__fp__splash__01.bmp
+FN,151.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.484291,0.0489,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/151__fn__spot__01.bmp
+FN,151.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.275302,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/151__fn__spot__02.bmp
+FP,151.bmp,chipping,定位偏差或重复预测,0.5479,0.7042,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/151__fp__chipping__01.bmp
+FP,151.bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4843,0.0489,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/151__fp__chipping__02.bmp
+FP,151.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3846,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/151__fp__splash__03.bmp
+FP,151.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3074,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/151__fp__splash__06.bmp
+FP,151.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2963,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/151__fp__splash__07.bmp
+FP,151.bmp,splash,定位偏差或重复预测,0.2753,0.7297,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/151__fp__splash__08.bmp
+FN,155.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/155__fn__spot__00.bmp
+FN,155.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/155__fn__spot__01.bmp
+FN,155.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/155__fn__spot__02.bmp
+FN,155.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/155__fn__spot__03.bmp
+FN,155.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/155__fn__spot__04.bmp
+FN,155.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/155__fn__spot__05.bmp
+FN,155.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/155__fn__spot__06.bmp
+FN,155.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/155__fn__spot__07.bmp
+FN,155.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/155__fn__spot__08.bmp
+FN,155.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/155__fn__spot__09.bmp
+FN,155.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/155__fn__spot__10.bmp
+FN,155.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/155__fn__spot__11.bmp
+FN,155.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/155__fn__spot__12.bmp
+FN,157.bmp,spot,定位偏差或置信度不足（存在部分重叠预测）,0.743096,0.2447,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/157__fn__spot__03.bmp
+FN,157.bmp,spot,定位偏差或置信度不足（存在部分重叠预测）,0.614324,0.1456,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/157__fn__spot__06.bmp
+FN,157.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.347225,0.0395,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/157__fn__spot__09.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.813,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__05.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.7439,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__06.bmp
+FP,157.bmp,spot,定位偏差或重复预测,0.7431,0.2447,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__07.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.7123,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__08.bmp
+FP,157.bmp,spot,定位偏差或重复预测,0.6143,0.1456,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__09.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.5802,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__10.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.5752,0.0599,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__11.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.5646,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__12.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.5514,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__13.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.5438,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__14.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.533,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__15.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4777,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__17.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4548,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__18.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4308,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__19.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4293,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__20.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4221,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__21.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4057,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__22.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3741,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__23.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3723,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__24.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3687,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__25.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.363,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__26.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3508,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__27.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3472,0.0395,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__28.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3471,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__29.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3354,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__30.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3299,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__32.bmp
+FP,157.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3276,0.0004,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/157__fp__splash__33.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.325,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__34.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3239,0.0623,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__35.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3066,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__36.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3047,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__37.bmp
+FP,157.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2911,0.0009,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/157__fp__splash__38.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2874,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__39.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2793,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__40.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2724,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__41.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2591,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__42.bmp
+FP,157.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2534,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/157__fp__spot__43.bmp
+FP,157.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2516,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/157__fp__splash__44.bmp
+FN,158.bmp,splash,类别混淆（同位置预测成其他类别）,0.7416,0.9754,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/158__fn__splash__01.bmp
+FN,158.bmp,splash,定位偏差或置信度不足（存在部分重叠预测）,0.621277,0.424,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/158__fn__splash__06.bmp
+FN,158.bmp,spot,定位偏差或置信度不足（存在部分重叠预测）,0.565325,0.2014,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/158__fn__spot__11.bmp
+FN,158.bmp,spot,定位偏差或置信度不足（存在部分重叠预测）,0.432925,0.1872,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/158__fn__spot__12.bmp
+FN,158.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.256872,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/158__fn__spot__13.bmp
+FN,158.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.256872,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/158__fn__spot__14.bmp
+FN,158.bmp,spot,类别混淆（同位置预测成其他类别）,0.349305,0.8295,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/158__fn__spot__15.bmp
+FN,158.bmp,spot,定位偏差或置信度不足（存在部分重叠预测）,0.316554,0.3181,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/158__fn__spot__16.bmp
+FN,158.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.256872,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/158__fn__spot__17.bmp
+FN,158.bmp,spot,类别混淆（同位置预测成其他类别）,0.609591,0.5521,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/158__fn__spot__18.bmp
+FN,158.bmp,spot,定位偏差或置信度不足（存在部分重叠预测）,0.269098,0.3069,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/158__fn__spot__19.bmp
+FP,158.bmp,spot,类别混淆（预测类别错误）,0.7416,0.9754,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/158__fp__spot__01.bmp
+FP,158.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.6418,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/158__fp__spot__03.bmp
+FP,158.bmp,splash,定位偏差或重复预测,0.6395,0.4227,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/158__fp__splash__04.bmp
+FP,158.bmp,splash,定位偏差或重复预测,0.6213,0.424,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/158__fp__splash__05.bmp
+FP,158.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.6212,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/158__fp__splash__06.bmp
+FP,158.bmp,splash,类别混淆（预测类别错误）,0.6096,0.5521,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/158__fp__splash__07.bmp
+FP,158.bmp,splash,定位偏差或重复预测,0.5653,0.2014,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/158__fp__splash__08.bmp
+FP,158.bmp,splash,定位偏差或重复预测,0.4329,0.1872,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/158__fp__splash__10.bmp
+FP,158.bmp,splash,类别混淆（预测类别错误）,0.3898,0.6032,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/158__fp__splash__14.bmp
+FP,158.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3812,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/158__fp__spot__15.bmp
+FP,158.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3684,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/158__fp__splash__17.bmp
+FP,158.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3616,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/158__fp__splash__19.bmp
+FP,158.bmp,splash,定位偏差或重复预测,0.3592,0.7353,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/158__fp__splash__20.bmp
+FP,158.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3574,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/158__fp__splash__21.bmp
+FP,158.bmp,splash,类别混淆（预测类别错误）,0.3493,0.8295,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/158__fp__splash__22.bmp
+FP,158.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3431,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/158__fp__splash__23.bmp
+FP,158.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3232,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/158__fp__splash__24.bmp
+FP,158.bmp,splash,定位偏差或重复预测,0.3172,0.431,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/158__fp__splash__25.bmp
+FP,158.bmp,splash,定位偏差或重复预测,0.3166,0.3181,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/158__fp__splash__26.bmp
+FP,158.bmp,spot,类别混淆（预测类别错误）,0.3048,0.9129,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/158__fp__spot__27.bmp
+FP,158.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.293,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/158__fp__splash__28.bmp
+FP,158.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2919,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/158__fp__splash__29.bmp
+FP,158.bmp,chipping,定位偏差或重复预测,0.2916,0.9738,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/158__fp__chipping__30.bmp
+FP,158.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2755,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/158__fp__splash__32.bmp
+FP,158.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2731,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/158__fp__splash__33.bmp
+FP,158.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2709,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/158__fp__splash__34.bmp
+FP,158.bmp,chipping,定位偏差或重复预测,0.2702,0.8723,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/158__fp__chipping__35.bmp
+FP,158.bmp,splash,定位偏差或重复预测,0.2691,0.3069,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/158__fp__splash__36.bmp
+FP,158.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2569,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/158__fp__spot__37.bmp
+FN,161.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/161__fn__chipping__00.bmp
+FP,164.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2923,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/164__fp__splash__01.bmp
+FN,174.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.259596,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/174__fn__spot__02.bmp
+FN,174.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.259596,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/174__fn__spot__03.bmp
+FN,174.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.259596,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/174__fn__spot__04.bmp
+FN,174.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.259596,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/174__fn__spot__05.bmp
+FN,174.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.259596,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/174__fn__spot__07.bmp
+FP,174.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2596,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/174__fp__spot__03.bmp
+FN,176.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.255917,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/176__fn__chipping__02.bmp
+FN,176.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.364077,0.0019,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/176__fn__spot__04.bmp
+FP,176.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.774,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/176__fp__spot__00.bmp
+FP,176.bmp,splash,类别混淆（预测类别错误）,0.735,0.7852,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/176__fp__splash__01.bmp
+FP,176.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.6682,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/176__fp__spot__03.bmp
+FP,176.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.5981,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/176__fp__spot__06.bmp
+FP,176.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.5001,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/176__fp__spot__07.bmp
+FP,176.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.447,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/176__fp__splash__08.bmp
+FP,176.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4088,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/176__fp__spot__09.bmp
+FP,176.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3853,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/176__fp__splash__10.bmp
+FP,176.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3641,0.0019,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/176__fp__spot__12.bmp
+FP,176.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3479,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/176__fp__spot__13.bmp
+FP,176.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3336,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/176__fp__spot__14.bmp
+FP,176.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3316,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/176__fp__spot__15.bmp
+FP,176.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3177,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/176__fp__spot__16.bmp
+FP,176.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3115,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/176__fp__spot__17.bmp
+FP,176.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3103,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/176__fp__spot__18.bmp
+FP,176.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.273,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/176__fp__splash__19.bmp
+FP,176.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2607,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/176__fp__splash__20.bmp
+FP,176.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2559,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/176__fp__spot__22.bmp
+FN,181.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.262534,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/181__fn__chipping__00.bmp
+FN,181.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.262534,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/181__fn__spot__03.bmp
+FN,181.bmp,spot,定位偏差或置信度不足（存在部分重叠预测）,0.543537,0.2439,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/181__fn__spot__05.bmp
+FP,181.bmp,spot,定位偏差或重复预测,0.5435,0.2439,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/181__fp__spot__01.bmp
+FP,181.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.303,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/181__fp__spot__03.bmp
+FN,191.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.401294,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/191__fn__chipping__00.bmp
+FP,191.bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4748,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/191__fp__chipping__00.bmp
+FN,192.bmp,chipping,定位偏差或置信度不足（存在部分重叠预测）,0.265737,0.3142,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/192__fn__chipping__02.bmp
+FP,192.bmp,chipping,定位偏差或重复预测,0.3235,0.6481,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/192__fp__chipping__02.bmp
+FP,192.bmp,chipping,定位偏差或重复预测,0.2657,0.3142,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/192__fp__chipping__04.bmp
+FN,195.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.253719,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/195__fn__spot__03.bmp
+FN,195.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.253719,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/195__fn__spot__04.bmp
+FP,195.bmp,chipping,定位偏差或重复预测,0.4345,0.6299,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/195__fp__chipping__04.bmp
+FP,195.bmp,chipping,定位偏差或重复预测,0.3041,0.71,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/195__fp__chipping__05.bmp
+FP,195.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2537,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/195__fp__spot__06.bmp
+FN,2.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.273072,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/2__fn__splash__02.bmp
+FN,2.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.273072,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/2__fn__chipping__04.bmp
+FN,2.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.273072,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/2__fn__splash__05.bmp
+FN,2.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.273072,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/2__fn__splash__06.bmp
+FN,2.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.273072,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/2__fn__splash__07.bmp
+FN,2.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.273072,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/2__fn__splash__08.bmp
+FN,2.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.273072,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/2__fn__splash__09.bmp
+FN,2.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.273072,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/2__fn__splash__10.bmp
+FN,2.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.273072,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/2__fn__splash__11.bmp
+FN,2.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.273072,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/2__fn__splash__12.bmp
+FN,2.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.273072,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/2__fn__splash__14.bmp
+FN,2.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.273072,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/2__fn__splash__15.bmp
+FP,2.bmp,spot,类别混淆（预测类别错误）,0.2863,0.8157,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/2__fp__spot__03.bmp
+FN,202.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.39401,0.0231,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/202__fn__spot__01.bmp
+FN,202.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.264778,0.077,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/202__fn__spot__02.bmp
+FN,202.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.264778,0.0736,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/202__fn__spot__03.bmp
+FN,202.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.39401,0.0175,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/202__fn__spot__04.bmp
+FN,202.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.39401,0.0047,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/202__fn__spot__05.bmp
+FN,202.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.39401,0.0061,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/202__fn__spot__06.bmp
+FN,202.bmp,spot,定位偏差或置信度不足（存在部分重叠预测）,0.694213,0.2498,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/202__fn__spot__07.bmp
+FN,202.bmp,spot,定位偏差或置信度不足（存在部分重叠预测）,0.580764,0.3959,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/202__fn__spot__08.bmp
+FN,202.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.258599,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/202__fn__spot__09.bmp
+FN,202.bmp,spot,类别混淆（同位置预测成其他类别）,0.548291,0.8015,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/202__fn__spot__10.bmp
+FN,202.bmp,spot,类别混淆（同位置预测成其他类别）,0.637737,0.6989,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/202__fn__spot__11.bmp
+FN,202.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.258599,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/202__fn__spot__13.bmp
+FN,202.bmp,spot,类别混淆（同位置预测成其他类别）,0.429086,0.7911,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/202__fn__spot__14.bmp
+FP,202.bmp,splash,定位偏差或重复预测,0.6942,0.2498,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/202__fp__splash__01.bmp
+FP,202.bmp,splash,类别混淆（预测类别错误）,0.6377,0.6989,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/202__fp__splash__02.bmp
+FP,202.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.5873,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/202__fp__splash__04.bmp
+FP,202.bmp,splash,定位偏差或重复预测,0.5808,0.3959,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/202__fp__splash__05.bmp
+FP,202.bmp,splash,类别混淆（预测类别错误）,0.5483,0.8015,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/202__fp__splash__06.bmp
+FP,202.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.519,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/202__fp__splash__07.bmp
+FP,202.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.5118,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/202__fp__splash__08.bmp
+FP,202.bmp,splash,类别混淆（预测类别错误）,0.4291,0.7911,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/202__fp__splash__09.bmp
+FP,202.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4225,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/202__fp__splash__10.bmp
+FP,202.bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.394,0.0231,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/202__fp__chipping__11.bmp
+FP,202.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3785,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/202__fp__splash__12.bmp
+FP,202.bmp,splash,类别混淆（预测类别错误）,0.35,0.5242,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/202__fp__splash__13.bmp
+FP,202.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3335,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/202__fp__splash__14.bmp
+FP,202.bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.322,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/202__fp__chipping__15.bmp
+FP,202.bmp,splash,类别混淆（预测类别错误）,0.2859,0.8776,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/202__fp__splash__16.bmp
+FP,202.bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2648,0.077,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/202__fp__chipping__17.bmp
+FP,202.bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2586,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/202__fp__chipping__18.bmp
+FN,203.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.270488,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/203__fn__splash__01.bmp
+FN,203.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.270488,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/203__fn__splash__02.bmp
+FN,203.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.270488,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/203__fn__spot__03.bmp
+FP,203.bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3216,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/203__fp__chipping__01.bmp
+FP,203.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2705,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/203__fp__spot__02.bmp
+FN,209.bmp,splash,定位偏差或置信度不足（存在部分重叠预测）,0.385302,0.4716,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/209__fn__splash__05.bmp
+FN,209.bmp,splash,定位偏差或置信度不足（存在部分重叠预测）,0.346596,0.3876,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/209__fn__splash__06.bmp
+FP,209.bmp,splash,定位偏差或重复预测,0.3853,0.4716,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/209__fp__splash__05.bmp
+FP,209.bmp,splash,定位偏差或重复预测,0.3749,0.6053,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/209__fp__splash__06.bmp
+FP,209.bmp,splash,定位偏差或重复预测,0.3466,0.3876,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/209__fp__splash__07.bmp
+FP,209.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3186,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/209__fp__splash__08.bmp
+FP,209.bmp,splash,定位偏差或重复预测,0.257,0.5956,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/209__fp__splash__09.bmp
+FP,209.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2518,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/209__fp__splash__10.bmp
+FN,221.bmp,chipping,定位偏差或置信度不足（存在部分重叠预测）,0.682485,0.1837,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/221__fn__chipping__01.bmp
+FN,221.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.329868,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/221__fn__chipping__02.bmp
+FN,221.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.329868,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/221__fn__chipping__03.bmp
+FN,221.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.329868,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/221__fn__chipping__04.bmp
+FN,221.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.329868,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/221__fn__chipping__05.bmp
+FN,221.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.329868,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/221__fn__chipping__06.bmp
+FN,221.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.329868,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/221__fn__chipping__07.bmp
+FP,221.bmp,chipping,定位偏差或重复预测,0.6825,0.1837,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/221__fp__chipping__00.bmp
+FP,221.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4793,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/221__fp__splash__01.bmp
+FP,221.bmp,spot,类别混淆（预测类别错误）,0.419,0.8589,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/221__fp__spot__02.bmp
+FN,231.bmp,splash,类别混淆（同位置预测成其他类别）,0.655266,0.7644,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/231__fn__splash__00.bmp
+FN,231.bmp,chipping,定位偏差或置信度不足（存在部分重叠预测）,0.606856,0.3164,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/231__fn__chipping__02.bmp
+FN,231.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.256758,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/231__fn__chipping__06.bmp
+FN,231.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.603816,0.0106,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/231__fn__chipping__08.bmp
+FN,231.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.603816,0.0528,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/231__fn__chipping__09.bmp
+FN,231.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.256758,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/231__fn__chipping__10.bmp
+FN,231.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.256758,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/231__fn__chipping__11.bmp
+FP,231.bmp,spot,类别混淆（预测类别错误）,0.6553,0.7644,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/231__fp__spot__03.bmp
+FP,231.bmp,chipping,定位偏差或重复预测,0.6069,0.3164,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/231__fp__chipping__05.bmp
+FP,231.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2568,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/231__fp__splash__07.bmp
+FN,235.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.328518,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/235__fn__spot__02.bmp
+FN,235.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.328518,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/235__fn__spot__03.bmp
+FN,238.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/238__fn__chipping__00.bmp
+FN,254.bmp,splash,类别混淆（同位置预测成其他类别）,0.463804,0.8548,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/254__fn__splash__01.bmp
+FN,254.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.287677,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/254__fn__spot__02.bmp
+FP,254.bmp,spot,类别混淆（预测类别错误）,0.4638,0.8548,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/254__fp__spot__01.bmp
+FP,254.bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2877,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/254__fp__chipping__02.bmp
+FN,262.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.253196,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/262__fn__chipping__02.bmp
+FN,262.bmp,spot,定位偏差或置信度不足（存在部分重叠预测）,0.601703,0.122,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/262__fn__spot__08.bmp
+FN,262.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.253196,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/262__fn__spot__10.bmp
+FN,262.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.253196,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/262__fn__spot__11.bmp
+FN,262.bmp,spot,定位偏差或置信度不足（存在部分重叠预测）,0.724186,0.2079,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/262__fn__spot__13.bmp
+FN,262.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.253196,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/262__fn__spot__14.bmp
+FP,262.bmp,spot,定位偏差或重复预测,0.7242,0.2079,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/262__fp__spot__03.bmp
+FP,262.bmp,spot,定位偏差或重复预测,0.704,0.3042,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/262__fp__spot__04.bmp
+FP,262.bmp,spot,定位偏差或重复预测,0.6525,0.7696,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/262__fp__spot__07.bmp
+FP,262.bmp,spot,定位偏差或重复预测,0.6017,0.122,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/262__fp__spot__08.bmp
+FP,262.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.5903,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/262__fp__spot__09.bmp
+FP,262.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.5258,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/262__fp__spot__11.bmp
+FP,262.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4111,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/262__fp__spot__13.bmp
+FP,262.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3954,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/262__fp__spot__14.bmp
+FP,262.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3441,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/262__fp__spot__17.bmp
+FP,262.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2998,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/262__fp__spot__18.bmp
+FP,262.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2893,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/262__fp__spot__19.bmp
+FP,262.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2725,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/262__fp__spot__20.bmp
+FP,262.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2692,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/262__fp__spot__21.bmp
+FP,262.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2534,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/262__fp__spot__22.bmp
+FP,262.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2532,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/262__fp__spot__23.bmp
+FN,263.bmp,spot,类别混淆（同位置预测成其他类别）,0.752341,0.7546,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/263__fn__spot__00.bmp
+FN,263.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.466209,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/263__fn__chipping__01.bmp
+FP,263.bmp,chipping,类别混淆（预测类别错误）,0.7523,0.7546,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/263__fp__chipping__00.bmp
+FP,263.bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4662,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/263__fp__chipping__01.bmp
+FN,266.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.279423,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/266__fn__spot__02.bmp
+FN,266.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.279423,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/266__fn__spot__04.bmp
+FN,266.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.279423,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/266__fn__spot__05.bmp
+FN,266.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.279423,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/266__fn__spot__06.bmp
+FN,266.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.279423,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/266__fn__spot__07.bmp
+FN,266.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.279423,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/266__fn__spot__08.bmp
+FN,266.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.279423,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/266__fn__spot__09.bmp
+FN,266.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.279423,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/266__fn__spot__10.bmp
+FN,266.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.279423,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/266__fn__spot__11.bmp
+FN,266.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.279423,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/266__fn__spot__12.bmp
+FN,266.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.279423,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/266__fn__spot__13.bmp
+FN,266.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.279423,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/266__fn__spot__14.bmp
+FP,266.bmp,chipping,定位偏差或重复预测,0.309,0.2015,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/266__fp__chipping__02.bmp
+FP,266.bmp,chipping,定位偏差或重复预测,0.2859,0.5001,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/266__fp__chipping__03.bmp
+FP,266.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2794,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/266__fp__splash__05.bmp
+FN,269.bmp,spot,类别混淆（同位置预测成其他类别）,0.891482,0.8248,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/269__fn__spot__00.bmp
+FN,269.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.256894,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/269__fn__spot__01.bmp
+FN,269.bmp,spot,类别混淆（同位置预测成其他类别）,0.391989,0.6459,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/269__fn__spot__02.bmp
+FN,269.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.256894,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/269__fn__chipping__04.bmp
+FN,269.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.256894,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/269__fn__chipping__05.bmp
+FN,269.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.256894,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/269__fn__chipping__06.bmp
+FN,269.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.256894,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/269__fn__chipping__08.bmp
+FN,269.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.256894,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/269__fn__spot__09.bmp
+FN,269.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.256894,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/269__fn__chipping__11.bmp
+FN,269.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.256894,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/269__fn__chipping__12.bmp
+FN,269.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.256894,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/269__fn__chipping__15.bmp
+FN,269.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.256894,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/269__fn__spot__16.bmp
+FN,269.bmp,chipping,定位偏差或置信度不足（存在部分重叠预测）,0.549204,0.1948,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/269__fn__chipping__17.bmp
+FN,269.bmp,chipping,定位偏差或置信度不足（存在部分重叠预测）,0.421011,0.2263,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/269__fn__chipping__18.bmp
+FN,269.bmp,chipping,定位偏差或置信度不足（存在部分重叠预测）,0.415249,0.413,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/269__fn__chipping__19.bmp
+FN,269.bmp,chipping,定位偏差或置信度不足（存在部分重叠预测）,0.260212,0.4535,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/269__fn__chipping__20.bmp
+FN,269.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.260212,0.0028,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/269__fn__chipping__21.bmp
+FN,269.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.256894,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/269__fn__spot__22.bmp
+FP,269.bmp,chipping,类别混淆（预测类别错误）,0.8915,0.8248,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/269__fp__chipping__00.bmp
+FP,269.bmp,chipping,定位偏差或重复预测,0.5492,0.1948,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/269__fp__chipping__02.bmp
+FP,269.bmp,chipping,定位偏差或重复预测,0.421,0.2263,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/269__fp__chipping__06.bmp
+FP,269.bmp,chipping,定位偏差或重复预测,0.4152,0.413,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/269__fp__chipping__07.bmp
+FP,269.bmp,chipping,类别混淆（预测类别错误）,0.392,0.6459,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/269__fp__chipping__08.bmp
+FP,269.bmp,chipping,定位偏差或重复预测,0.2602,0.4535,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/269__fp__chipping__10.bmp
+FP,269.bmp,chipping,定位偏差或重复预测,0.2569,0.2715,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/269__fp__chipping__11.bmp
+FN,270.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.280622,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/270__fn__spot__02.bmp
+FN,270.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.280622,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/270__fn__spot__03.bmp
+FN,270.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.280622,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/270__fn__spot__04.bmp
+FN,270.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.280622,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/270__fn__spot__05.bmp
+FN,270.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.280622,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/270__fn__spot__06.bmp
+FN,270.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.280622,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/270__fn__spot__07.bmp
+FN,270.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.280622,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/270__fn__spot__08.bmp
+FN,270.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.280622,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/270__fn__spot__09.bmp
+FN,270.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.280622,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/270__fn__spot__10.bmp
+FN,270.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.280622,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/270__fn__spot__11.bmp
+FN,270.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.280622,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/270__fn__spot__12.bmp
+FP,270.bmp,spot,定位偏差或重复预测,0.2964,0.7276,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/270__fp__spot__01.bmp
+FP,270.bmp,spot,定位偏差或重复预测,0.2806,0.7558,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/270__fp__spot__03.bmp
+FN,276.bmp,chipping,定位偏差或置信度不足（存在部分重叠预测）,0.324286,0.3292,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/276__fn__chipping__00.bmp
+FN,276.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.324286,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/276__fn__spot__01.bmp
+FN,276.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.324286,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/276__fn__spot__02.bmp
+FN,276.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.324286,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/276__fn__spot__03.bmp
+FP,276.bmp,chipping,定位偏差或重复预测,0.7242,0.2207,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/276__fp__chipping__00.bmp
+FP,276.bmp,chipping,定位偏差或重复预测,0.3243,0.3292,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/276__fp__chipping__01.bmp
+FN,278.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.251148,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/278__fn__spot__01.bmp
+FN,278.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.251148,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/278__fn__spot__02.bmp
+FN,278.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.251148,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/278__fn__spot__03.bmp
+FN,278.bmp,spot,类别混淆（同位置预测成其他类别）,0.419448,0.5035,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/278__fn__spot__05.bmp
+FP,278.bmp,chipping,类别混淆（预测类别错误）,0.4194,0.5035,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/278__fp__chipping__01.bmp
+FN,280.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.313349,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/280__fn__spot__02.bmp
+FN,280.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.313349,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/280__fn__spot__03.bmp
+FP,286.bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3561,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/286__fp__chipping__05.bmp
+FN,29.bmp,chipping,类别混淆（同位置预测成其他类别）,0.274485,0.7944,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/29__fn__chipping__02.bmp
+FN,29.bmp,chipping,类别混淆（同位置预测成其他类别）,0.352321,0.9244,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/29__fn__chipping__03.bmp
+FN,29.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.268269,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/29__fn__splash__04.bmp
+FN,29.bmp,splash,定位偏差或置信度不足（存在部分重叠预测）,0.268269,0.3983,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/29__fn__splash__05.bmp
+FN,29.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.268269,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/29__fn__splash__06.bmp
+FN,29.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.268269,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/29__fn__splash__07.bmp
+FP,29.bmp,spot,类别混淆（预测类别错误）,0.3523,0.9244,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/29__fp__spot__02.bmp
+FP,29.bmp,chipping,定位偏差或重复预测,0.325,0.2825,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/29__fp__chipping__03.bmp
+FP,29.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2792,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/29__fp__splash__04.bmp
+FP,29.bmp,spot,类别混淆（预测类别错误）,0.2745,0.7944,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/29__fp__spot__05.bmp
+FP,29.bmp,splash,定位偏差或重复预测,0.2683,0.3983,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/29__fp__splash__06.bmp
+FN,290.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.254266,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/290__fn__spot__01.bmp
+FN,292.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.252246,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/292__fn__spot__00.bmp
+FN,292.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.252246,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/292__fn__spot__01.bmp
+FN,292.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.252246,0.029,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/292__fn__spot__02.bmp
+FN,292.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.252246,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/292__fn__spot__03.bmp
+FN,292.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.252246,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/292__fn__spot__04.bmp
+FP,292.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4268,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/292__fp__spot__00.bmp
+FP,292.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3913,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/292__fp__splash__01.bmp
+FP,292.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2858,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/292__fp__spot__02.bmp
+FP,292.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2643,0.0247,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/292__fp__spot__03.bmp
+FP,292.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2522,0.029,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/292__fp__spot__04.bmp
+FN,299.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.348911,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/299__fn__chipping__01.bmp
+FN,299.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.348911,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/299__fn__chipping__02.bmp
+FP,299.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3489,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/299__fp__splash__01.bmp
+FP,300.bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2769,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/300__fp__chipping__02.bmp
+FN,301.bmp,splash,类别混淆（同位置预测成其他类别）,0.791048,0.9801,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/301__fn__splash__00.bmp
+FN,301.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.384433,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/301__fn__spot__01.bmp
+FP,301.bmp,chipping,类别混淆（预测类别错误）,0.791,0.9801,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/301__fp__chipping__00.bmp
+FP,301.bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.6041,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/301__fp__chipping__01.bmp
+FP,301.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4148,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/301__fp__splash__02.bmp
+FP,301.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4141,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/301__fp__splash__03.bmp
+FP,301.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3939,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/301__fp__splash__04.bmp
+FP,301.bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3844,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/301__fp__chipping__05.bmp
+FN,320.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.311082,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/320__fn__spot__03.bmp
+FN,320.bmp,spot,定位偏差或置信度不足（存在部分重叠预测）,0.316673,0.4042,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/320__fn__spot__04.bmp
+FP,320.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.5265,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/320__fp__spot__00.bmp
+FP,320.bmp,splash,定位偏差或重复预测,0.3167,0.4042,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/320__fp__splash__04.bmp
+FP,320.bmp,splash,类别混淆（预测类别错误）,0.3111,0.6736,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/320__fp__splash__05.bmp
+FN,325.bmp,spot,类别混淆（同位置预测成其他类别）,0.692205,0.9572,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/325__fn__spot__03.bmp
+FN,325.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.269341,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/325__fn__splash__04.bmp
+FN,325.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.269341,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/325__fn__splash__05.bmp
+FN,325.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.269341,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/325__fn__splash__06.bmp
+FN,325.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.269341,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/325__fn__spot__07.bmp
+FN,325.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.269341,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/325__fn__spot__08.bmp
+FP,325.bmp,chipping,类别混淆（预测类别错误）,0.6922,0.9572,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/325__fp__chipping__01.bmp
+FP,325.bmp,spot,定位偏差或重复预测,0.2693,0.8821,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/325__fp__spot__05.bmp
+FN,333.bmp,chipping,定位偏差或置信度不足（存在部分重叠预测）,0.331724,0.4961,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/333__fn__chipping__06.bmp
+FN,333.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.269392,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/333__fn__spot__07.bmp
+FP,333.bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.5646,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/333__fp__chipping__05.bmp
+FP,333.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4822,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/333__fp__splash__06.bmp
+FP,333.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4284,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/333__fp__splash__08.bmp
+FP,333.bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3649,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/333__fp__chipping__09.bmp
+FP,333.bmp,chipping,定位偏差或重复预测,0.3317,0.4961,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/333__fp__chipping__10.bmp
+FP,333.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2876,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/333__fp__splash__11.bmp
+FP,333.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2694,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/333__fp__splash__12.bmp
+FN,34.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.250466,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/34__fn__chipping__00.bmp
+FP,34.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3024,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/34__fp__spot__00.bmp
+FP,34.bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2505,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/34__fp__chipping__01.bmp
+FN,350.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.25431,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/350__fn__spot__00.bmp
+FP,350.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2826,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/350__fp__spot__00.bmp
+FP,350.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2543,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/350__fp__splash__01.bmp
+FP,356.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2597,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/356__fp__spot__02.bmp
+FN,361.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.43838,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/361__fn__splash__01.bmp
+FN,361.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.43838,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/361__fn__splash__02.bmp
+FN,361.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.43838,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/361__fn__splash__03.bmp
+FP,361.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4422,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/361__fp__splash__00.bmp
+FN,362.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.266009,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/362__fn__spot__00.bmp
+FN,362.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.266009,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/362__fn__spot__03.bmp
+FN,362.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.266009,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/362__fn__spot__04.bmp
+FN,362.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.266009,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/362__fn__spot__05.bmp
+FN,362.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.266009,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/362__fn__spot__06.bmp
+FN,362.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.266009,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/362__fn__spot__08.bmp
+FN,362.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.266009,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/362__fn__spot__09.bmp
+FN,362.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.266009,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/362__fn__spot__10.bmp
+FN,363.bmp,scratch,未检测到（建议检查尺度、反光、对比度或漏标）,0.306688,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/scratch/images/363__fn__scratch__00.bmp
+FP,363.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4159,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/363__fp__splash__01.bmp
+FP,363.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3482,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/363__fp__splash__02.bmp
+FP,363.bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3153,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/363__fp__chipping__03.bmp
+FN,365.bmp,spot,定位偏差或置信度不足（存在部分重叠预测）,0.804393,0.4593,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/365__fn__spot__01.bmp
+FN,365.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.297477,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/365__fn__spot__02.bmp
+FN,365.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.297477,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/365__fn__spot__03.bmp
+FN,365.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.297477,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/365__fn__spot__04.bmp
+FN,365.bmp,spot,类别混淆（同位置预测成其他类别）,0.561579,0.767,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/365__fn__spot__05.bmp
+FN,365.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.297477,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/365__fn__spot__06.bmp
+FP,365.bmp,chipping,定位偏差或重复预测,0.8044,0.4593,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/365__fp__chipping__00.bmp
+FP,365.bmp,splash,类别混淆（预测类别错误）,0.5616,0.767,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/365__fp__splash__02.bmp
+FP,365.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2975,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/365__fp__splash__03.bmp
+FN,367.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.25891,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/367__fn__splash__05.bmp
+FN,367.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.25891,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/367__fn__splash__06.bmp
+FN,367.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.25891,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/367__fn__splash__07.bmp
+FN,367.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.25891,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/367__fn__splash__08.bmp
+FN,367.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.25891,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/367__fn__splash__09.bmp
+FN,367.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.25891,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/367__fn__splash__11.bmp
+FN,367.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.25891,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/367__fn__splash__13.bmp
+FN,367.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.25891,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/367__fn__splash__14.bmp
+FN,367.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.25891,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/367__fn__splash__15.bmp
+FN,367.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.25891,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/367__fn__splash__16.bmp
+FN,367.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.25891,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/367__fn__splash__17.bmp
+FN,367.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.25891,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/367__fn__splash__18.bmp
+FP,370.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4671,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/370__fp__splash__00.bmp
+FP,370.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3526,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/370__fp__spot__01.bmp
+FP,370.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2841,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/370__fp__splash__02.bmp
+FP,370.bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.255,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/370__fp__chipping__03.bmp
+FN,38.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.313486,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/38__fn__splash__01.bmp
+FN,38.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.313486,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/38__fn__splash__02.bmp
+FP,38.bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4625,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/38__fp__chipping__02.bmp
+FP,38.bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4541,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/38__fp__chipping__03.bmp
+FN,384.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.257367,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/384__fn__spot__11.bmp
+FN,384.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.257367,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/384__fn__spot__12.bmp
+FN,384.bmp,spot,定位偏差或置信度不足（存在部分重叠预测）,0.393327,0.1129,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/384__fn__spot__14.bmp
+FN,384.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.257367,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/384__fn__spot__15.bmp
+FN,384.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.257367,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/384__fn__spot__16.bmp
+FN,384.bmp,spot,定位偏差或置信度不足（存在部分重叠预测）,0.261743,0.2192,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/384__fn__spot__18.bmp
+FN,384.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.257367,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/384__fn__spot__22.bmp
+FN,384.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.275021,0.0156,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/384__fn__spot__25.bmp
+FN,384.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.257367,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/384__fn__spot__29.bmp
+FN,384.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.257367,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/384__fn__spot__30.bmp
+FN,384.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.257367,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/384__fn__spot__34.bmp
+FP,384.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.6911,0.097,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/384__fp__spot__05.bmp
+FP,384.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.5502,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/384__fp__spot__15.bmp
+FP,384.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.519,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/384__fp__spot__16.bmp
+FP,384.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4724,0.0591,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/384__fp__spot__19.bmp
+FP,384.bmp,spot,定位偏差或重复预测,0.434,0.335,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/384__fp__spot__21.bmp
+FP,384.bmp,spot,定位偏差或重复预测,0.3933,0.1129,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/384__fp__spot__22.bmp
+FP,384.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3406,0.0599,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/384__fp__spot__24.bmp
+FP,384.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3372,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/384__fp__spot__25.bmp
+FP,384.bmp,spot,定位偏差或重复预测,0.2935,0.396,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/384__fp__spot__28.bmp
+FP,384.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.275,0.0156,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/384__fp__spot__29.bmp
+FP,384.bmp,spot,定位偏差或重复预测,0.2671,0.5498,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/384__fp__spot__30.bmp
+FP,384.bmp,spot,定位偏差或重复预测,0.2617,0.2192,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/384__fp__spot__32.bmp
+FP,384.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2574,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/384__fp__spot__36.bmp
+FN,392.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.264281,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/392__fn__chipping__00.bmp
+FN,392.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.546667,0.0198,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/392__fn__spot__02.bmp
+FN,392.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.546667,0.0527,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/392__fn__spot__04.bmp
+FN,392.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.546667,0.0631,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/392__fn__spot__05.bmp
+FN,392.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.264281,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/392__fn__spot__06.bmp
+FN,392.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.264281,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/392__fn__spot__08.bmp
+FP,392.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.5467,0.0631,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/392__fp__spot__01.bmp
+FP,392.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3121,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/392__fp__spot__02.bmp
+FN,397.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.76057,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/397__fn__chipping__00.bmp
+FN,399.bmp,chipping,定位偏差或置信度不足（存在部分重叠预测）,0.504601,0.1899,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/399__fn__chipping__00.bmp
+FP,399.bmp,chipping,定位偏差或重复预测,0.8265,0.1469,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/399__fp__chipping__00.bmp
+FP,399.bmp,chipping,定位偏差或重复预测,0.5046,0.1899,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/399__fp__chipping__01.bmp
+FN,411.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.295988,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/411__fn__spot__00.bmp
+FN,411.bmp,splash,类别混淆（同位置预测成其他类别）,0.808387,0.5287,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/411__fn__splash__02.bmp
+FN,411.bmp,splash,定位偏差或置信度不足（存在部分重叠预测）,0.429781,0.4509,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/411__fn__splash__03.bmp
+FN,411.bmp,splash,定位偏差或置信度不足（存在部分重叠预测）,0.558722,0.3063,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/411__fn__splash__04.bmp
+FN,411.bmp,chipping,未检测到（建议检查尺度、反光、对比度或漏标）,0.295988,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/chipping/images/411__fn__chipping__05.bmp
+FN,411.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.295988,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/411__fn__spot__07.bmp
+FP,411.bmp,spot,类别混淆（预测类别错误）,0.8084,0.5287,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/411__fp__spot__00.bmp
+FP,411.bmp,spot,定位偏差或重复预测,0.6955,0.4509,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/411__fp__spot__01.bmp
+FP,411.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.6779,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/411__fp__spot__02.bmp
+FP,411.bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.6147,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/411__fp__chipping__04.bmp
+FP,411.bmp,spot,定位偏差或重复预测,0.5587,0.3063,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/411__fp__spot__05.bmp
+FP,411.bmp,splash,定位偏差或重复预测,0.4298,0.4509,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/411__fp__splash__06.bmp
+FP,411.bmp,splash,类别混淆（预测类别错误）,0.3713,0.9305,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/411__fp__splash__07.bmp
+FP,411.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2978,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/411__fp__spot__09.bmp
+FP,411.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.296,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/411__fp__spot__10.bmp
+FN,412.bmp,spot,定位偏差或置信度不足（存在部分重叠预测）,0.67078,0.4794,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/412__fn__spot__00.bmp
+FN,412.bmp,spot,定位偏差或置信度不足（存在部分重叠预测）,0.399559,0.1412,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/412__fn__spot__01.bmp
+FN,412.bmp,spot,定位偏差或置信度不足（存在部分重叠预测）,0.86741,0.4061,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/412__fn__spot__04.bmp
+FN,412.bmp,spot,定位偏差或置信度不足（存在部分重叠预测）,0.653672,0.3795,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/412__fn__spot__11.bmp
+FN,412.bmp,spot,定位偏差或置信度不足（存在部分重叠预测）,0.653672,0.141,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/412__fn__spot__12.bmp
+FN,412.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.263813,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/412__fn__spot__13.bmp
+FN,412.bmp,spot,定位偏差或置信度不足（存在部分重叠预测）,0.263813,0.1274,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/412__fn__spot__23.bmp
+FN,412.bmp,spot,定位偏差或置信度不足（存在部分重叠预测）,0.379352,0.3692,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/412__fn__spot__26.bmp
+FP,412.bmp,spot,定位偏差或重复预测,0.8674,0.4061,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/412__fp__spot__00.bmp
+FP,412.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.769,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/412__fp__spot__04.bmp
+FP,412.bmp,spot,定位偏差或重复预测,0.6708,0.4794,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/412__fp__spot__07.bmp
+FP,412.bmp,spot,定位偏差或重复预测,0.6537,0.3795,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/412__fp__spot__09.bmp
+FP,412.bmp,spot,定位偏差或重复预测,0.5537,0.4976,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/412__fp__spot__14.bmp
+FP,412.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4875,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/412__fp__spot__18.bmp
+FP,412.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.4462,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/412__fp__spot__20.bmp
+FP,412.bmp,chipping,类别混淆（预测类别错误）,0.4167,0.7997,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/412__fp__chipping__23.bmp
+FP,412.bmp,spot,定位偏差或重复预测,0.3996,0.1412,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/412__fp__spot__24.bmp
+FP,412.bmp,spot,定位偏差或重复预测,0.3794,0.3692,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/412__fp__spot__26.bmp
+FP,412.bmp,spot,定位偏差或重复预测,0.3771,0.1586,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/412__fp__spot__27.bmp
+FP,412.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3762,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/412__fp__spot__28.bmp
+FP,412.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3756,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/412__fp__spot__29.bmp
+FP,412.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3603,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/412__fp__spot__31.bmp
+FP,412.bmp,spot,定位偏差或重复预测,0.3408,0.9254,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/412__fp__spot__32.bmp
+FP,412.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3131,0.0094,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/412__fp__spot__33.bmp
+FP,412.bmp,spot,定位偏差或重复预测,0.2805,0.496,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/412__fp__spot__34.bmp
+FP,412.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2707,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/412__fp__spot__36.bmp
+FP,412.bmp,spot,定位偏差或重复预测,0.2638,0.1274,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/412__fp__spot__37.bmp
+FN,420.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.293769,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/420__fn__spot__01.bmp
+FN,420.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.293769,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/420__fn__spot__04.bmp
+FN,420.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.293769,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/420__fn__spot__05.bmp
+FN,45.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/45__fn__splash__00.bmp
+FN,45.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/45__fn__splash__01.bmp
+FN,45.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/45__fn__splash__02.bmp
+FP,48.bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3564,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/48__fp__chipping__00.bmp
+FN,58.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.348063,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/58__fn__splash__02.bmp
+FN,58.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.348063,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/58__fn__splash__04.bmp
+FP,58.bmp,chipping,定位偏差或重复预测,0.3481,0.9005,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/58__fp__chipping__03.bmp
+FN,60.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.2506,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/60__fn__splash__04.bmp
+FP,60.bmp,splash,定位偏差或重复预测,0.2558,0.7669,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/60__fp__splash__08.bmp
+FP,63.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.3307,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/63__fp__spot__00.bmp
+FN,65.bmp,spot,未检测到（建议检查尺度、反光、对比度或漏标）,0.426114,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/65__fn__spot__00.bmp
+FN,65.bmp,spot,定位偏差或置信度不足（存在部分重叠预测）,0.426114,0.1627,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/spot/images/65__fn__spot__01.bmp
+FP,65.bmp,spot,定位偏差或重复预测,0.4261,0.1627,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/65__fp__spot__00.bmp
+FN,78.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.257491,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/78__fn__splash__03.bmp
+FP,78.bmp,splash,定位偏差或重复预测,0.2575,0.772,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/78__fp__splash__03.bmp
+FP,82.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.5833,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/82__fp__spot__01.bmp
+FP,82.bmp,splash,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2693,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/splash/images/82__fp__splash__02.bmp
+FP,82.bmp,spot,背景误检、反光/边缘干扰，或真实缺陷漏标,0.2623,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/spot/images/82__fp__spot__03.bmp
+FN,83.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.353803,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/83__fn__splash__03.bmp
+FN,94.bmp,scratch,未检测到（建议检查尺度、反光、对比度或漏标）,0.63655,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/scratch/images/94__fn__scratch__00.bmp
+FN,94.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.63655,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/94__fn__splash__01.bmp
+FN,94.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.63655,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/94__fn__splash__02.bmp
+FN,94.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.63655,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/94__fn__splash__03.bmp
+FN,94.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.63655,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/94__fn__splash__04.bmp
+FN,94.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.63655,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/94__fn__splash__05.bmp
+FN,94.bmp,splash,未检测到（建议检查尺度、反光、对比度或漏标）,0.63655,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/splash/images/94__fn__splash__06.bmp
+FN,94.bmp,scratch,未检测到（建议检查尺度、反光、对比度或漏标）,0.63655,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fn/scratch/images/94__fn__scratch__07.bmp
+FP,94.bmp,chipping,背景误检、反光/边缘干扰，或真实缺陷漏标,0.6365,0.0,runs_668_error_analysis/baseline_conf025_iou070_errors/fp/chipping/images/94__fp__chipping__00.bmp
